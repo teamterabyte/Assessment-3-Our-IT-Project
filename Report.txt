@@ -1,11 +1,69 @@
 Team Terabyte - A3: Our IT Project
 
-Contents
+CONTENTS
+1   TEAM PROFILE...............................................................2
+1.1   Team Information.........................................................2
+1.2   Test Results.............................................................2
+1.3   Ideal Jobs...............................................................2
+1.4   Group Processes..........................................................2
+1.5   Career Plans.............................................................2
+2   Tools......................................................................3
+3   Project Description........................................................4
 
-1. Team Profile
+
+1 - Team Profile
 Introduction to IT Group 7 - TEAM TERABYTE
 
-1.1 Test Results
+1.1 - Team Information
+Joel Baden - Student Number: S3855896 - Team Terabyte
+From Geelong, however I have lived in Melbourne for 7 years and travel there
+often as my base of operations for work and athletics training. My interests are
+varied, as I grew up in a musical family I enjoy playing piano and guitar,
+creating my own music and producing for others. I've previously studied
+philosophy and enjoy a good argument around topics such as religion, logic,
+meanings etc. IT has always been present in my life, from my first Gameboy,
+playing games on desktops, recording music on specialised software, to
+completing this course through online means. IT is an important aspect of my
+daily life as I rely on my computer and mobile phone to complete many essential
+tasks, including creating and recording music via virtual workstation. In a
+professional sense, I'm interested in studying IT and programming due to the
+growing demand in that sector.
+
+Nathan Layt - Student Number: S3831623 - Team Terabyte
+34 year old student from Brisbane. I went to school at Westside Christian
+College then I went to work for Murrays Mining Services, a family company
+specialising in underground coal mining machinery parts and repairs. I worked
+as a Service Clerk then as a Sales Administrator at Komatsu and I worked as a
+Geotechnician for Xstrata Mount Isa Mines. My interest in IT started when I was
+very young and had a keen interest in computer games which lead to an interest
+in building and upgrading computers. My IT experience started with what I
+learned growing up with a PC and expands to the areas I learned and developed
+throughout my career including MS Office Suite, database building and
+administration, SAP experience and even basic programming of instrumentation.
+Probably my favourite hobby is travelling, which is what lead to our project
+idea. I started travelling overseas when I was 15 and I've been to over 20
+countries, with long stays in Germany and Thailand. I have forgotten most of my
+German language but I speak Thai ok with a north-eastern dialect.
+
+Joseph Tselios - Student Number: S3858508 - Team Terabyte
+24 year old student currently living in Melbourne, Australia. My parents are
+from Greece and Italy, however I still consider myself to be Australian. My
+education has been placed on hold for a few years since I started to work full
+time at a very young age, however I'm back at it again with a focus on finding
+a career that I'm passionate about. My hobbies are listening to music, working
+out and, of course, League of Legends. I have very little experience in IT but I
+hope that my education and professionalism will encourage employers to give me
+an opportunity.
+
+Anabel Gonzalez - Student Number S3858832 - Team Terabyte
+31 year old student from Argentina, I moved to Australia eight years ago. My
+native language is Spanish, I took English classes in high school but I'm mostly
+self-taught. I finished my Diploma of Website Development two months ago and I
+want to progress in my career by pursuing a Bachelors Degree. Over the last
+couple of years I've been learning Graphic Design, on my own, which led me to
+open an Etsy Shop where I sell digital products and services.
+
+1.2 - Test Results
 Since we have each completed 3 personality tests to better understand ourselves,
 we are able to analyse the differences and similarities between group members.
 The key takeaways from these tests are the type of personalities that we each
@@ -24,4 +82,38 @@ Anabel is classified as a 'mediator' which is a very important personality to
 have in a group. If conflict ever occurs, we may be able to look towards Anabel
 to assess the situation and figure out conflict resolution quickly and easily.
 
-1.2 Ideal Jobs
+1.3 Ideal Jobs
+Within the group we see quite a bit of difference between each other's ideal
+jobs, while containing some overlap in required knowledge, they are mostly
+distinct in their end goals. Nathan, Joel and Anabel are all interested in what
+appears to be frontend developing environments that involve user experience,
+user interface designs and require an in-depth understanding of programming
+languages like Javascript and CSS. Both Joel and Anabel's ideal jobs as a web
+developer and as an iOS developer further require strong graphic design skills
+and mobile app experience, despite the end products being different in nature -
+website vs iOS applications. Nathan's job description, whilst requiring many of
+the same skills, does not specify a particular platform to which the software
+will be implemented, perhaps indicating a more general development role.
+Joseph's ideal job for a Level 1 IT Help Desk position requires a different set
+of skills, unique to the rest of the group, including telephone and remote
+support for end-users, installation and configuring of client's desktops and
+on-site technical support. This position does not involve developing products
+but is more about technical support in the service industry. Although members of
+the group are not currently qualified for their ideal jobs, everyone is working
+towards it, either through the completion of a degree in IT with RMIT or other
+relevant certificates.
+
+1.4 Group Processes
+The active members of the group worked well together in Assignment 2, to
+overcome the disadvantage of inactive members, quickly adaping to the challenges
+of working in a group to produce a satisfactory result. MS Teams proved a very
+effective collaboration platform and will no doubt continue to serve the team
+well in Assignment 3. Regular online meetings were very productive, the only
+change that would be good in A3 is the attendance of all group members. A2
+lacked the appropriate use of version control which affected group members that
+were waiting on others to finish work instead of proper collaboration. The lack
+of version control was also noted in feedback and had a negative effect on A2
+marking, so the major process change for A3 will be the implementation of proper
+version control through effective use of GitHub and any other relevant tools.
+
+1.5 Career Plans
