@@ -127,4 +127,65 @@ of version control was also noted in feedback and had a negative effect on A2
 marking, so the major process change for A3 will be the implementation of proper
 version control through effective use of GitHub and any other relevant tools.
 
-1.5 Career Plans
+1.5 - Career Plans
+
+
+2 - Tools
+
+
+3 - Project Description
+
+
+3.1 - Overview
+
+
+3.2 - Aims
+The aim is to have a fully operational, bug free, user friendly and entertaining
+ social media orientated platform for planning, logging and sharing travel
+information through an online profile. The platform would serve as a diary type
+recording option for frequent travellers that would enjoy keeping track of
+things, and provide users with a way to view their destinations as visually
+  displayed achievements that they can share with their friends, family and
+other contacts.
+
+To fulfill this aim our project team will need to achieve the following goals:
+
+Establish a web presence - This would serve as an address for the project, for
+developers to work with and for users to connect.
+
+Build a database - This will be the backbone of the project. Updated through the
+user interface, it will store user information under their account name
+(ideally their unique email adress).
+
+Create an App - This would provide smartphone users with a user friendly way to
+access the platform and path the way for additional features like GPS logging.
+
+
+3.3 - Plans and Progress
+
+
+3.4 - Roles
+
+
+3.5 - Scope and Limits
+
+
+3.6 -
+
+
+3.7 -
+
+
+3.8 -
+
+
+3.9 -
+
+
+3.10 -
+
+
+4 - Skills and Jobs
+
+
+5 - Group Reflection
