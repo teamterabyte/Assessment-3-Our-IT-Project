@@ -252,6 +252,16 @@ long term.
 
 2 - Tools
 
+As was the case in Assignment 2, MS Teams was the main platform for discussion
+and collaboration. GitHub Desktop and Atom Text Editor were used to facilitate
+better utilisation of GitHub to provide version control and a log of activity.
+
+Link to Group's Website -
+
+Link to Group's Git Repository -
+https://github.com/teamterabyte/Assessment-3-Our-IT-Project
+
+The audit trail on the Git repository ...(insert comments)
 
 3 - Project Description
 
