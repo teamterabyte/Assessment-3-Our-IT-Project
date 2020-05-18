@@ -263,26 +263,52 @@ long term.
 The aim is to have a fully operational, bug free, user friendly and entertaining
  social media orientated platform for planning, logging and sharing travel
 information through an online profile. The platform would serve as a diary type
-recording option for frequent travellers that would enjoy keeping track of
+recording option for frequent travelers that would enjoy keeping track of
 things, and provide users with a way to view their destinations as visually
-  displayed achievements that they can share with their friends, family and
+displayed achievements that they can share with their friends, family and
 other contacts.
 
 To fulfill this aim our project team will need to achieve the following goals:
 
+Goal-
 Come up with a name and logo for the platform - This is an essential starting
 point. Success in this area means creating something that people will recognise
 and remember.
 
+Progress-
+03/05/2020: MS Teams discussion used to establish the name, "Globelogger".
+09/05/2020: 2 Logo options created by Anabel posted to the Project Name section
+of MS Teams.
+
+Goal-
 Establish a web presence - This would serve as an address for the project, for
 developers to work with and for users to connect.
 
+Progress-
+Incomplete - delayed by suggestion that an app would be better than a website
+based on feedback from A2.
+
+Goal-
+Add the User Profile function - This is how users will access the platform and
+store and update their information.
+
+Progress-
+Incomplete
+
+Goal-
 Build a database - This will be the backbone of the project. Updated through the
 user interface, it will store user information under their account name
 (ideally their unique email adress).
 
+Progress-
+Incomplete
+
+Goal-
 Create an App - This would provide smartphone users with a user friendly way to
 access the platform and path the way for additional features like GPS logging.
+
+Progress-
+Incomplete
 
 
 3.3 - Plans and Progress
