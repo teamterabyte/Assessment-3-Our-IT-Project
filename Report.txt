@@ -330,22 +330,91 @@ Incomplete
 3.5 - Scope and Limits
 
 
-3.6 -
+3.6 - Tools and Technologies
 
 
-3.7 -
+3.7 - Testing
 
 
-3.8 -
+3.8 - Timeframe
+
+        (insert table here)
+
+3.9 - Risks
 
 
-3.9 -
-
-
-3.10 -
+3.10 - Group Processes and Communications
 
 
 4 - Skills and Jobs
+
+Introduction and Context
+
+While developing our team project idea ‘GlobeLogger’ we were approached by
+venture capitalists who fell in love with our idea that they want to fund us to
+further development GlobeLogger even further. The time we have until expected
+completion is six months. I have been appointed as manager and am able to higher
+ 4 people to assist with the development of the GlobeLogger. The questions that
+ you will all be asking is what positions would I choose? What skills with they
+ require? Find out all the answers below.
+
+
+
+Position #1 – Project Manager
+
+As a project manager you will be under a lot of pressure. We require someone who
+ can handle the heat, and lead a team through to the finish line. We need you to
+ have deep and diverse knowledge in the business industry in relation to mobile
+projects. You also need experience in management, development methodologies,
+and mobile development.
+
+Key Skills Required
+-Confidence in leading
+-Solid technical background
+-Good understanding of the business line
+-Inspire, manage and lead human resources
+-Possess high sense of responsibility
+-Proficient in multitasking
+
+Position #2 – Designers
+
+As a designer we expect you to process the requirements of GlobeLogger and then
+create the required navigation mechanics and basic wireframes for the app to
+function. This is where you can begin to work on the loop and feel of the app
+through UI/UX.
+
+Key Skills Required
+-Organized
+-Experience in graphic design
+-Creativity
+-Innovation
+-Attention to detail
+
+Position #3 – Developer
+
+You are expected to process the finished UI/UX layouts and showcase them in our
+application. It is very important to us that you are proficient in multiple
+computer languages. Due to our app being cross platform, flexibility is key.
+
+Key Skills Required
+-Knowledge in HTML/CSS/JavaScript for PhoneGap and Cordova
+-Knowledge of C# for Xamarin
+-Knowledge of JavaScript for React Native
+
+Position #4 – Quality Assurance Specialist
+
+As a Quality Assurance Specialist, we need you to be the first and most critical
+ audience for our app. You will test GlobalLogger over and over again until you
+believe that it is ready to be presented to the customer. You need to look for
+all ways that we can improve GlobalLogger and prove that these improvements are
+necessary.
+
+Key Skills Required
+-Attention to detail
+-Creative
+-Have a clear vision on what the app is supposed to do
+-Analytical skills
+-Problem solving
 
 
 5 - Group Reflection
