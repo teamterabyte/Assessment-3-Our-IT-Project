@@ -26,6 +26,15 @@ CONTENTS
 Introduction to IT Group 7 - TEAM TERABYTE
 
 1.1 - Team Information
+
+Anabel Gonzalez - Student Number S3858832 - Team Terabyte
+31 year old student from Argentina, I moved to Australia eight years ago. My
+native language is Spanish, I took English classes in high school but I'm mostly
+self-taught. I finished my Diploma of Website Development two months ago and I
+want to progress in my career by pursuing a Bachelors Degree. Over the last
+couple of years I've been learning Graphic Design, on my own, which led me to
+open an Etsy Shop where I sell digital products and services.
+
 Joel Baden - Student Number: S3855896 - Team Terabyte
 From Geelong, however I have lived in Melbourne for 7 years and travel there
 often as my base of operations for work and athletics training. My interests are
@@ -39,6 +48,16 @@ daily life as I rely on my computer and mobile phone to complete many essential
 tasks, including creating and recording music via virtual workstation. In a
 professional sense, I'm interested in studying IT and programming due to the
 growing demand in that sector.
+
+Joseph Tselios - Student Number: S3858508 - Team Terabyte
+24 year old student currently living in Melbourne, Australia. My parents are
+from Greece and Italy, however I still consider myself to be Australian. My
+education has been placed on hold for a few years since I started to work full
+time at a very young age, however I'm back at it again with a focus on finding
+a career that I'm passionate about. My hobbies are listening to music, working
+out and, of course, League of Legends. I have very little experience in IT but I
+hope that my education and professionalism will encourage employers to give me
+an opportunity.
 
 Nathan Layt - Student Number: S3831623 - Team Terabyte
 34 year old student from Brisbane. I went to school at Westside Christian
@@ -55,24 +74,6 @@ Probably my favourite hobby is travelling, which is what lead to our project
 idea. I started travelling overseas when I was 15 and I've been to over 20
 countries, with long stays in Germany and Thailand. I have forgotten most of my
 German language but I speak Thai ok with a north-eastern dialect.
-
-Joseph Tselios - Student Number: S3858508 - Team Terabyte
-24 year old student currently living in Melbourne, Australia. My parents are
-from Greece and Italy, however I still consider myself to be Australian. My
-education has been placed on hold for a few years since I started to work full
-time at a very young age, however I'm back at it again with a focus on finding
-a career that I'm passionate about. My hobbies are listening to music, working
-out and, of course, League of Legends. I have very little experience in IT but I
-hope that my education and professionalism will encourage employers to give me
-an opportunity.
-
-Anabel Gonzalez - Student Number S3858832 - Team Terabyte
-31 year old student from Argentina, I moved to Australia eight years ago. My
-native language is Spanish, I took English classes in high school but I'm mostly
-self-taught. I finished my Diploma of Website Development two months ago and I
-want to progress in my career by pursuing a Bachelors Degree. Over the last
-couple of years I've been learning Graphic Design, on my own, which led me to
-open an Etsy Shop where I sell digital products and services.
 
 1.2 - Test Results
 Since we have each completed 3 personality tests to better understand ourselves,
@@ -129,6 +130,125 @@ version control through effective use of GitHub and any other relevant tools.
 
 1.5 - Career Plans
 
+Anabel Gonzalez
+Short-term (3+ years):
+- Graduate as a Bachelor of IT
+- Get a job as a junior web or iOS app developer. As mentioned before, become a
+web developer and/or iOS developer is my ideal job and after reading the tutor's
+ feedback my plans haven't changed.
+
+The goal is to learn all the required skills to become an efficient and
+successful developer. Examples of technologies, programming languages or skills
+that I would like to learn are:
+- Php, Java, Swift, JavaScript
+- Databases design, management and development
+- Systems design - MVP development
+- Project management - UX/UI basics
+- Cybersecurity
+
+Medium-term (5+ years):
+- Become a Senior/Lead Developer The goal is to gain experience in managing
+teams, deadlines, budgets, etc.
+
+Long-term (8+ years):
+- Study an MBA Postgraduate course
+- Start a website & app development agency
+
+The goal is to acquire all the required knowledge to run a business so I can
+then create and run a company specialised on eCommerce website & app development
+ to help businesses with their online store needs
+
+Joel Baden
+Short Term (3+ years)
+- Graduate in a Bachelor of IT
+- Get work experience in any IT related job, such as an IT help desk position
+or web-design and development. Ideally having work experience in the field in
+conjunction with completing my bachelor will prepare me well for more complex
+positions and will help narrow out what aspects within IT I find most engaging.
+- Gain an general understanding of essential skills such as programming
+languages, working with databases, graphic design and project management.
+
+Medium-Long Term goals include:
+- Working in web-design or development
+- Create my own web-design business
+- Possibly pursuing a programming position within an audio-plugin company
+- Learning the relevant skills, programming languages and techniques.
+Luckily c++ is widely used to design audio plugins and vst’s, so I would expect
+to already have some experience working with this language.
+- Depending on whether I get ample experience, I would like to start my own
+audio-plugin company.
+
+Joseph Tselios
+Short-term (3+ years):
+- Graduate with a bachelor of Information Technology
+- Get a job as a helpdesk officer or a low level IT job that will introduce me
+to the industry.
+
+After reading the tutor's feedback my plans have actually changed. I’ve looked
+towards the future more deeply and I would like to eventually create software
+that assists with peoples lives in all aspects. Whether it be through
+entertainment, healthcare I want to create software’s that can better us as
+people.
+
+The skills I will need to learn will be vast, but the starting skills I’ll need
+will be:
+- Mathematical aptitude
+- Problem-solving skills
+- Programming languages (different types of developer role require different
+languages)
+- Excellent organizational and time management skills
+- Accuracy and attention to detail
+- An understanding of the latest trends and their role in a commercial
+environment
+- Teamwork skills
+- Self-development skills to keep up to date with fast-changing trends
+
+ Long-term (8+ years):
+- Develop a software to change peoples lives
+
+Nathan Layt
+Short Term (3+ years)
+-Complete Bachelors Degree in Information Technology or related field.
+-Secure a Graduate position with a reputable company in Brisbane.
+
+This is consistant with my ideal job, which has not changed after feedback.
+
+Medium Term (5+ years)
+Gain experience by working in roles for 2-3 years then applying for more senior
+roles or roles in different companies and industries.
+
+Long Term (8+ Years)
+Complete a postgraduate degree (Masters)
+Eventually I would like to use my experience to start my own business or move on
+ to a training or educational role.
+
+Summary
+All group members plan on completing a Bachelor of Information Technology or
+similar degree as part of their short term career plans. Securing an entry level
+ job is also part of the short term plan for all group members. Anabel and
+Joseph both have a specific role in mind, whereas Joel and Nathan both have the
+more general goal of securing any entry level role in the IT industry. Joseph
+notes that his career plans have changed as a result of feedback from his tutor,
+ other group members note that their plans remain unchanged.
+
+All group members note that work experience through employment is an essential
+part of their medium term career plans. Anabel and Nathan note that securing a
+more senior position could be the motivation for gaining experience. Most
+members identify programming as an area where they would like to develop their
+skills.
+
+In the long term, Anabel and Nathan both plan to gain further education through
+postgraduate courses. All members plan on using their experience to do something
+ that they can call their own. Anabel, Joel and Nathan all mention a desire to
+start their own business and Joseph would like to develop his own software,
+which could mean starting his own business or it could mean securing a role for
+a company that would pay him to develop the software. Nathan is the only member
+considering training or teaching.
+
+Although there are some slight difference in career plans for all group members,
+ it is interesting to see how similar our ideas for the future are, even in the
+long term.
+
 
 2 - Tools
 
@@ -149,6 +269,10 @@ things, and provide users with a way to view their destinations as visually
 other contacts.
 
 To fulfill this aim our project team will need to achieve the following goals:
+
+Come up with a name and logo for the platform - This is an essential starting
+point. Success in this area means creating something that people will recognise
+and remember.
 
 Establish a web presence - This would serve as an address for the project, for
 developers to work with and for users to connect.
