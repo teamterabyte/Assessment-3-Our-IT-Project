@@ -268,6 +268,31 @@ The audit trail on the Git repository ...(insert comments)
 
 3.1 - Overview
 
+3.1.1 Topic
+GlobeLogger would be aimed specifically at people that frequently travel overseas. The main purpose is to serve as an accurate record of travel destinations and dates, as well as giving the user a feeling of accomplishment with every location added.
+Our objective is to lunch a Beta version of the web app with limited functionality that we can improve in the future.
+
+3.1.2 Motivation
+Nathan, one of Team Terabyte’s members, is an avid traveller that visited more than 20 countries. He had a vision of creating a web application to record all the places he has visited in the past and plan new destination ideas. As a team, we found the idea really interesting and decided to choose it as the team’s project.
+We strongly believe that the project is an excellent portfolio item to show prospective employers not only our capabilities as developers but also our ability to work as part of a team.
+
+3.1.3 Landscape
+Millennials (Ages 24-39) love to travel and they make it a priority in their lives . They save a large part of their incomes to afford travelling across different local and international destinations.
+There are several companies that offer advice to travellers and even products or services. This fact is not a surprise as millennials are the largest generation up to date representing a 31.5% of the global population. In 2018 only, US millennials spent $200 billion on travel.   Examples of social media  web apps and mobile apps for travellers are:
+
+  •	Travelloapp - https://travelloapp.com/
+
+  Travello is a social media app where travellers can meet, connect and learn from others. It has a reward system where users can earn points and exchange them for Travello experiences.
+  Users can also share travel updates and photos and discover deals.
+
+  •	Tripadvisor – https://www.tripadvisor.com.au/
+
+  Tripadvisor is an online travel company. Is not strictly a social media but has a big component of user-generated content, where readers can share experiences, rate hotels and restaurants and share photos of the places they’ve been to.
+
+GlobeLogger features are similar to Travelloapp, users can display the places they have visited in the past and connect with other travellers. However, GlobeLogger will not offer reward systems or meeting.
+GlobeLogger doesn’t share many similarities with Tripadvisor other than the ability to add destinations to the user profile and the social media-like style of the website.
+
+
 
 3.2 - Aims
 The aim is to have a fully operational, bug free, user friendly and entertaining
@@ -323,6 +348,21 @@ Incomplete
 
 3.3 - Plans and Progress
 
+The project idea for our previous assessment was to create a social media platform for travellers and to build a responsive web app from scratch. However due to the feedback received we decided to change our plan and build an app instead of a website. Our technical skills and knowledge are not up to the challenge so after careful consideration we decided to use Thunkable, a platform with advanced features to build apps without writing code. Our intention is to create a prototype for demonstration purposes, with some of the GlobeLogger’s features. We will explain more about Thunkable and the development process in the Tools and Technologies section.
+Nathan, the original creator of GlobeLogger, had a clear picture in his mind of how the app would look like and the features that would need to be included.
+Some of the characteristics and features are:
+
+  •	Users need to create an account and sign in to be able to use the app. The details required are name (including first and last), email address, password and D.O.B.
+  •	The users can edit their profile, add a profile image and current location. A single profile picture would be a central part of the user profile, this picture could be changed at any time however the platform would not store multiple profile pictures.
+  •	Central to the profile would be a map highlighting travelled destinations, with an option to select specific locations to record / reveal more detailed information. This section, however, would be difficult if not impossible to implement using Thunkable.
+  •	The user would enter travel times to display an accurate timeline. As previous travel may have happened a long time ago and exact dates could be difficult, trips that are entered into a profile would have optional selection for the year, month and day.
+  •	Number of countries travelled to would be prominently displayed and have the feel of a “score” for the profile.
+  •	You could add photos of specific destinations by selecting the relevant trip. The maximum number of photos for each country / trip would be quite limited as their purpose would mostly be for the memory of the profile user / proof of the trip / historical record more than the option of photos taking over the desired purpose of the platform if people wanted to flood their profiles with travel pics they wanted to share with their friends / the community.
+  •	Users would be part of a network of friends that could view each other’s profiles and share their current travel activities.
+
+We’ve designed the app UI using Adobe XD to demonstrate the app to potential investors and developers. Designing the app screens also help to develop the database and the Thunkable app prototype.
+
+I’LL ADD MORE INFO ON FRIDAY/SATURDAY
 
 3.4 - Roles
 
@@ -331,6 +371,11 @@ Incomplete
 
 
 3.6 - Tools and Technologies
+
+We have used Adobe XD to design the app screens as this tool allows the team to work collaboratively and has advanced capabilities to create a very realistic representation of the app UI.
+As mentioned before, to build the prototype, we’ve used Thunkable. The platform allows users to create apps for iOS and Android. With Thunkable it is possible to build the app using blocks instead of code. We can drag and drop the different user interface components and to add functionality to each element, we can use the blocks as we were programming using code. Once the app prototype is finished, we will export it as an executable (.apk) file that can be installed on a phone. Additionally, it is possible to export the source code (.aia) that can be edited using Thunkable.
+To have control of the database and the customer’s details we’ve used a real time database (Firebase Realtime). As Team Terabyte will own the Firebase database it will be possible to connect that database to a custom-built app or website in the future and sync data across devices. The data is stored as a JSON object using keys association. The NoSQL nature of the database makes it really important to structure the data in a “flat” way, as every time we fetch data, we are also retrieving all the child nodes that are under that parent node and this impact directly in the monthly bill. Firebase also can be used as a backend to authenticate users and we can assign different permission levels to write and read data.
+Significant funding would be required, especially to maintain Firebase and to create a custom-built app for iOS and Android.
 
 
 3.7 - Testing
