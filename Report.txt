@@ -479,66 +479,174 @@ venture capitalists who fell in love with our idea that they want to fund us to
 further development GlobeLogger even further. The time we have until expected
 completion is six months. I have been appointed as manager and am able to higher
  4 people to assist with the development of the GlobeLogger. The questions that
- you will all be asking is what positions would I choose? What skills with they
- require? Find out all the answers below.
-
+you will all be asking is what positions would I choose? What skills with they
+require? Find out all the answers below.
 
 
 Position #1 – Project Manager
 
-As a project manager you will be under a lot of pressure. We require someone who
- can handle the heat, and lead a team through to the finish line. We need you to
- have deep and diverse knowledge in the business industry in relation to mobile
-projects. You also need experience in management, development methodologies,
-and mobile development.
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for an IT Project Manager to be in charge of project
+planning, resourcing, progress reporting, troubleshooting and people management.
+ As a project manager you will be under a lot of pressure. We require someone
+who can handle the heat, and lead a team through to the finish line. We need you
+ to have deep and diverse knowledge in the business industry in relation to
+mobile projects. You also need experience in management, development
+methodologies, and mobile development.
 
 Key Skills Required
--Confidence in leading
--Solid technical background
--Good understanding of the business line
--Inspire, manage and lead human resources
--Possess high sense of responsibility
--Proficient in multitasking
+
+Confidence in leading
+Solid technical background
+Good understanding of the business line
+Inspire, manage and lead human resources
+Possess high sense of responsibility
+Proficient in multitasking
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Annual flu vaccinations
+
+To apply for this position, hit the “apply for this job” button below
+
+(reference to ad that I compared mine to
+https://www.seek.com.au/job/41346507?type=standard#searchRequestToken=5af67e2f-cd7a-45d0-a2ba-ad6f9214e606)
+
 
 Position #2 – Designers
 
-As a designer we expect you to process the requirements of GlobeLogger and then
-create the required navigation mechanics and basic wireframes for the app to
-function. This is where you can begin to work on the loop and feel of the app
-through UI/UX.
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a designer, we expect you to process the
+requirements of our projects and then create the required navigation mechanics
+and basic wireframes for the app to function. This is where you can begin to
+work on the loop and feel of the app through UI/UX.
 
 Key Skills Required
--Organized
--Experience in graphic design
--Creativity
--Innovation
--Attention to detail
+
+Organized
+Experience in graphic design
+Creativity
+Innovation
+Attention to detail
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Annual flu vaccinations
+
+To apply for this position, hit the “apply for this job” button below
+
+(Reference to ad that I compared mine to
+https://www.seek.com.au/job/41319542?type=standard#searchRequestToken=4370eb84-0e1a-4370-9a6e-232ba053950d)
 
 Position #3 – Developer
 
-You are expected to process the finished UI/UX layouts and showcase them in our
-application. It is very important to us that you are proficient in multiple
-computer languages. Due to our app being cross platform, flexibility is key.
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a developer, you are expected to process the
+finished UI/UX layouts and showcase them in our application. It is very
+important to us that you are proficient in multiple computer languages. Due to
+our app being cross platform, flexibility is key. Below is a list of key skills
+you will need to require in order to be considered for this position.
+
 
 Key Skills Required
--Knowledge in HTML/CSS/JavaScript for PhoneGap and Cordova
--Knowledge of C# for Xamarin
--Knowledge of JavaScript for React Native
+
+Knowledge in HTML/CSS/JavaScript for PhoneGap and Cordova
+Knowledge of C# for Xamarin
+Knowledge of JavaScript for React Native
+Self-motivated with a fun attitude and high energy levels.
+Must be super-organized and like to work in an orderly and efficient
+environment.
+Strong attention to time management, detail and accuracy in your work
+Be flexible and a proactive, supportive team member
+Willing to learn company systems, processes and new tasks/skills
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Annual flu vaccinations
+
+To apply for this position, hit the “apply for this job” button below
+
+(Ad that I compared mine to
+https://www.seek.com.au/job/41351525?type=standout#searchRequestToken=9bf936c4-a547-44b9-a86c-ba91fc38314e) 
+
 
 Position #4 – Quality Assurance Specialist
 
-As a Quality Assurance Specialist, we need you to be the first and most critical
- audience for our app. You will test GlobalLogger over and over again until you
-believe that it is ready to be presented to the customer. You need to look for
-all ways that we can improve GlobalLogger and prove that these improvements are
-necessary.
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a Quality Assurance Specialist, we need you to be
+the first and most critical audience for our upcoming projects. You will test
+numerous of projects over and over again until you believe that it is ready to
+be presented to the customer. You need to look for all ways that we can improve
+our projects and prove that these improvements are necessary. We highly regard
+applicants who are Certified information systems auditor, are an experienced IT
+Auditor and also has experience in leading or mentoring junior IT auditors.
 
 Key Skills Required
--Attention to detail
--Creative
--Have a clear vision on what the app is supposed to do
--Analytical skills
--Problem solving
+
+Attention to detail
+Creative
+Have a clear vision on what the app is supposed to do
+Analytical skills
+Problem solving
+
+How we reward & support you:
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Annual flu vaccinations
+
+(Reference to the ad that I compared mine to
+seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847c-f69f9b40b838)
+
 
 
 5 - Group Reflection
