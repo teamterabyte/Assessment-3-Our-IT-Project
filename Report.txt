@@ -425,6 +425,24 @@ I’LL ADD MORE INFO ON FRIDAY/SATURDAY
 
 3.4 - Roles
 
+In our group, roles for each member may include Administrator for Nathan, UI
+Designer for Anabel, Joel (Designer/Media), and Marketing for Joseph.
+
+Nathan can be assigned as such, as he conceived the original plan for
+GlobeLogger including the major features, and is active in directing the scope
+for the design or any additional features throughout its development.
+
+Anabel would be considered the UI designer, due to her past experience in
+graphics design and working with databases. She has covered the logos,
+animations, and is designing/developing the UI for our project.
+
+There isn’t a specified role for Joel, although he contributes with informing
+the scope of the design, features of the app, design elements in the
+user-interface and producing the video-media to be presented.
+
+Joseph could be responsible for the marketing aspect of the project, producing
+compelling scripts/ voice-overs to highlight and elucidate the major features,
+goals and purposes of the brand GlobeLogger.
 
 3.5 - Scope and Limits
 
@@ -653,7 +671,7 @@ seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847
 
 5.1 Anabel Gonzalez
 Being part of Team Terabyte has been challenging and rewarding at the same time.
- I’ve learned how difficult it can be balancing life and study, communicating 
+ I’ve learned how difficult it can be balancing life and study, communicating
 with people that I barely know and trusting others when delegating tasks. Even
 though the team's communication for this assessment has improved, compared to
 the previous one, I still believe that there is room for improvement as a group.
