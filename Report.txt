@@ -606,7 +606,7 @@ Annual flu vaccinations
 To apply for this position, hit the “apply for this job” button below
 
 (Ad that I compared mine to
-https://www.seek.com.au/job/41351525?type=standout#searchRequestToken=9bf936c4-a547-44b9-a86c-ba91fc38314e) 
+https://www.seek.com.au/job/41351525?type=standout#searchRequestToken=9bf936c4-a547-44b9-a86c-ba91fc38314e)
 
 
 Position #4 – Quality Assurance Specialist
@@ -650,3 +650,75 @@ seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847
 
 
 5 - Group Reflection
+
+5.1 Anabel Gonzalez
+
+5.2 Joel Baden
+
+5.3 Joseph Tselios
+
+5.4 Nathan Layt
+The group did well to identify the problems of the previous assignment and make
+adjustments to work towards a more successful collaboration.
+
+The major issue identified last time was the time it took for the group to get
+started, so for Assignment 3 the MS Teams group, which has served as our central
+ communication and collaboration hub, was set up and configured the morning
+ after Assignment 2 was submitted.
+
+In the early stages of the project the group still struggled to make progress
+for a number of reasons. One thing that made it very hard to move forward was
+that we did not have our feedback from Assignment 2, which would play a vital
+role in the development of the project. Also a significant amount of research
+and experimentation was required to select the tools that would allow us to
+develop our project to a prototype stage in the very limited time given to us in
+ this assignment.
+
+The group was surprised and dissapointed when the highly critical feedback of
+Assignment 2 arrived, and our vision for the project was transformed by the
+suggestion that we should produce an app rather than a website. However, we now
+had everything that was needed to start producing content as the adjusted
+project plan became clear and development swiftly began, allowing us to identify
+ the most efficient use of group member's contributions to work towards
+deliverable targets, realistically alligned with our vision.
+
+The proper use of GitHub for version control and log of activity could have been
+ improved by some members but it was drastically better than A2. Although my own
+ work is well documented in GitHub, a better idea of the contribution of other
+members is reflected by the MS Teams hub.
+
+5.5 Summary
+Working as a group, we certainly developed our communication, organisation and a
+ sense of accountability to each other from our first Assignment. The majority
+of group processes and communication were achieved on Microsoft Teams, and 
+having experience using it from the previous assessment, we were able to use it
+ proficiently allowing for better communication, scheduling regular meetings
+and delegating tasks - which improved our overall workflow and motivation.
+This time round, we capitalised on the strengths and skills of each member,
+assigning specific tasks that suited their strengths. For example, due to her
+background in app design, Anabel was tasked with the role of building and
+designing the app, whilst the scope and vision of the project was assigned to
+Joel and Nathan - maximising our efficiency as a team. This in conjunction
+with starting earlier on our project and establishing good habits of
+communication allowed for better quality work.
+
+As we had a small number of active members contributing to the project,
+it would have benefitted us to start earlier, anticipating the additional
+workload. Had we allowed for this, we could have developed a more substantial
+prototype than what we delivered - in which the functionality was quite limited.
+This was also due in part to an unequal distribution of work, as a particular
+member was not actively participating in our weekly video-chats, and thus
+missing out on crucial-information keeping them uninformed on group processes
+and the direction of the project. This could of been easily prevented by them
+actively participating in these sessions, keeping updated with the rest of the
+group.
+
+Similar to our experience working on Assignment 2, we were surprised by how much
+ regular communication (face-to-face) plays in creating a shared sense of
+accountability, and motivation - which has the secondary effect of alleviating
+the pressure which arises from feeling like your working alone. We have learnt
+how valuable it is to have meetings such as these at semi-regular intervals to
+keep updated and focussed on specific tasks. In addition, we have learnt that
+successfully working as a team requires that each member is equally motivated,
+plays to their strengths and contributes in an equal fashion. The outcome of
+group work is linked to the group's cohesiveness.
