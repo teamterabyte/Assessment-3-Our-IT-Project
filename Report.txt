@@ -652,10 +652,56 @@ seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847
 5 - Group Reflection
 
 5.1 Anabel Gonzalez
+Being part of Team Terabyte has been challenging and rewarding at the same time.
+ I’ve learned how difficult it can be balancing life and study, communicating 
+with people that I barely know and trusting others when delegating tasks. Even
+though the team's communication for this assessment has improved, compared to
+the previous one, I still believe that there is room for improvement as a group.
+ I am really pleased to see what we have achieved as a team so far but I also
+think that we could have produced a better final result & prototype if we had
+collaborated more and managed time more efficiently. The project scope was
+quite complex and individual members contribution wasn't enough to deliver an
+artefact with more features and functions. Our weekly video conferences were
+really productive and the report was written collaboratively. Although, I
+strongly believe that if we would have counted with the presence of all team
+members during at least some of the video conferences, it would have made a big
+difference in the final result. We have tried to incorporate Github for version
+control, but our main collaboration tool remained to be MS Team.
 
 5.2 Joel Baden
+My experience with the group working towards our project idea was a lot smoother
+ and straight-forward than when we first met for Assignment 2, despite a few
+set-backs. By that stage we had established some good routines for communicating
+ & file-sharing, using face-time meetings effectively for clarifying, delegating
+ and prioritising tasks (we held roughly two meetings per week). Between the
+more active members (Nathan & Anabel), meetings were enjoyable and constructive
+as we learned to rely on each other's skill-sets. Despite starting earlier on
+our previous assignment, we would have benefitted from starting in the 2nd or
+3rd week as we only had 4 members in our group to split the workload. This would
+ have allowed us to develop our project further. However given our situation, I
+was surprised by the amount of work we outputted and was especially impressed by
+ how professional our prototype for GlobeLogger looked, despite it still being
+in the early stages of development (props to Anabel). A big take-away that I’ve
+learnt about group functioning would be the  importance of regular communication
+ and trusting others. It ensures there’s a collective understanding when
+assigning tasks, and creates a sense of accountability that motivates work and
+sticking to deadlines.
 
 5.3 Joseph Tselios
+Being a member of Team Terabyte has been great, and I really do appreciate the
+other members in the group. I do believe that the team’s strengths are found in
+the leadership roles that Anabel and Nathan held. They both made sure that this
+project ran as smoothly as possible and I do believe that they did achieve that.
+ Communication to get work done amongst all members sufficed my expectations and
+ I do believe that Nathan and Anabel are to thank for this. While our
+ communication for completing tasks was done well, I believe that our
+understanding of each other’s expectations and ideas fall through. At one-point
+half the group thought we were going to design a website while the other half
+thought we were designing an application. I believe that the amount of ‘teams’
+that we have on Microsoft teams may have been a contributing factor to the
+confusion. I’ve learned that when working in groups, you need to have a lot of
+time spare to dedicate to the group to get proper results. I was surprised with
+the quality of work that we were able to produce regardless of miscommunication.
 
 5.4 Nathan Layt
 The group did well to identify the problems of the previous assignment and make
@@ -674,7 +720,7 @@ and experimentation was required to select the tools that would allow us to
 develop our project to a prototype stage in the very limited time given to us in
  this assignment.
 
-The group was surprised and dissapointed when the highly critical feedback of
+The group was surprised and disappointed when the highly critical feedback of
 Assignment 2 arrived, and our vision for the project was transformed by the
 suggestion that we should produce an app rather than a website. However, we now
 had everything that was needed to start producing content as the adjusted
@@ -690,7 +736,7 @@ members is reflected by the MS Teams hub.
 5.5 Summary
 Working as a group, we certainly developed our communication, organisation and a
  sense of accountability to each other from our first Assignment. The majority
-of group processes and communication were achieved on Microsoft Teams, and 
+of group processes and communication were achieved on Microsoft Teams, and
 having experience using it from the previous assessment, we were able to use it
  proficiently allowing for better communication, scheduling regular meetings
 and delegating tasks - which improved our overall workflow and motivation.
