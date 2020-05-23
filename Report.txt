@@ -20,7 +20,21 @@ CONTENTS
 3.9   Risks....................................................................4
 3.10  Group Processes and Communications.......................................4
 4   SKILLS AND JOBS............................................................5
-5   GROUP REFLECTION...........................................................6
+4.1   Project Manager..........................................................5
+4.2   Designers................................................................5
+4.3   Developer................................................................5
+4.4   Quality Assurance Specialist.............................................5
+5   ARTIFACTS..................................................................6
+5.1   GlobeLogger App..........................................................6
+5.2   Firebase Database........................................................6
+5.3   GlobeLogger Website......................................................6
+6   GROUP REFLECTION...........................................................7
+6.1   Anabel Gonzalez..........................................................7
+6.2   Joel Baden...............................................................7
+6.3   Joseph Tselios...........................................................7
+6.4   Nathan Layt..............................................................7
+6.5   Summary..................................................................7
+
 
 1 - Team Profile
 Introduction to IT Group 7 - TEAM TERABYTE
@@ -351,6 +365,8 @@ Incomplete - delayed by suggestion that an app would be better than a website
 based on feedback from A2.
 19/05/2020: Nathan created Git Repository that can display work in progress
 website through GitHub Pages.
+23/05/2020: Work in progress website published at
+https://teamterabyte.github.io/GlobeLogger/
 
 Goal-
 Add the User Profile function - This is how users will access the platform and
@@ -495,13 +511,13 @@ Introduction and Context
 While developing our team project idea ‘GlobeLogger’ we were approached by
 venture capitalists who fell in love with our idea that they want to fund us to
 further development GlobeLogger even further. The time we have until expected
-completion is six months. I have been appointed as manager and am able to higher
+completion is six months. I have been appointed as manager and am able to hire
  4 people to assist with the development of the GlobeLogger. The questions that
 you will all be asking is what positions would I choose? What skills with they
 require? Find out all the answers below.
 
 
-Position #1 – Project Manager
+4.1 – Project Manager
 
 We are a new organization that is coming up in the IT industry. If you are to
 join us, you will experience what it is like to be part of a dynamic, growing,
@@ -536,7 +552,8 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 To apply for this position, hit the “apply for this job” button below
 
@@ -544,7 +561,7 @@ To apply for this position, hit the “apply for this job” button below
 https://www.seek.com.au/job/41346507?type=standard#searchRequestToken=5af67e2f-cd7a-45d0-a2ba-ad6f9214e606)
 
 
-Position #2 – Designers
+4.2 – Designer
 
 We are a new organization that is coming up in the IT industry. If you are to
 join us, you will experience what it is like to be part of a dynamic, growing,
@@ -575,7 +592,8 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 To apply for this position, hit the “apply for this job” button below
 
@@ -619,7 +637,8 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 To apply for this position, hit the “apply for this job” button below
 
@@ -660,16 +679,26 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 (Reference to the ad that I compared mine to
 seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847c-f69f9b40b838)
 
+5 - Artifacts
+
+5.1 GlobeLogger App
 
 
-5 - Group Reflection
+5.2 Firebase Database
 
-5.1 Anabel Gonzalez
+
+5.3 GlobeLogger Website
+
+
+6 - Group Reflection
+
+6.1 Anabel Gonzalez
 Being part of Team Terabyte has been challenging and rewarding at the same time.
  I’ve learned how difficult it can be balancing life and study, communicating
 with people that I barely know and trusting others when delegating tasks. Even
@@ -686,7 +715,7 @@ members during at least some of the video conferences, it would have made a big
 difference in the final result. We have tried to incorporate Github for version
 control, but our main collaboration tool remained to be MS Team.
 
-5.2 Joel Baden
+6.2 Joel Baden
 My experience with the group working towards our project idea was a lot smoother
  and straight-forward than when we first met for Assignment 2, despite a few
 set-backs. By that stage we had established some good routines for communicating
@@ -705,7 +734,7 @@ learnt about group functioning would be the  importance of regular communication
 assigning tasks, and creates a sense of accountability that motivates work and
 sticking to deadlines.
 
-5.3 Joseph Tselios
+6.3 Joseph Tselios
 Being a member of Team Terabyte has been great, and I really do appreciate the
 other members in the group. I do believe that the team’s strengths are found in
 the leadership roles that Anabel and Nathan held. They both made sure that this
@@ -721,7 +750,7 @@ confusion. I’ve learned that when working in groups, you need to have a lot of
 time spare to dedicate to the group to get proper results. I was surprised with
 the quality of work that we were able to produce regardless of miscommunication.
 
-5.4 Nathan Layt
+6.4 Nathan Layt
 The group did well to identify the problems of the previous assignment and make
 adjustments to work towards a more successful collaboration.
 
@@ -751,7 +780,7 @@ The proper use of GitHub for version control and log of activity could have been
  work is well documented in GitHub, a better idea of the contribution of other
 members is reflected by the MS Teams hub.
 
-5.5 Summary
+6.5 Summary
 Working as a group, we certainly developed our communication, organisation and a
  sense of accountability to each other from our first Assignment. The majority
 of group processes and communication were achieved on Microsoft Teams, and
