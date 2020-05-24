@@ -539,8 +539,66 @@ for 95% of participants reporting no critical errors to consider our prototype a
 
 3.9 - Risks
 
+- Being undecided on how to deliver the project idea (website vs app). We might
+not be able to deliver consistent or quality artefacts if we’re splitting our
+time between different platforms.
+
+- It is also important that we deliver our artefacts by a timely date, which can
+ be integrated into the final video-presentation. We need to have enough content
+ to allow for a 5 minute script that is relevant to what we've produced.
+
+- Software for creating the app prototype such as Adobe XD may be difficult to
+learn given our time-frame. The delivered prototype may contain bugs if we rush
+implementing this software into our project. If this is the case, we may only
+have the time to present a wire-frame of the app, including all the major
+features and include limited functionality such as buttons for navigating
+different pages, login/logout and user authentication.
+
+- A functional app for our project would ideally contain complex interactive
+animations that go beyond registering and inputting basic data - such as a photo
+ timeline and an interactive global map that displays a history of user’s prior
+travel destinations. It is unlikely that we will develop these features given
+our current knowledge and time-frame.
+
+- If we’re not realistic about what we can accomplish given our dead-line &
+don’t have a shared understanding, we run the risk of our work being fragmented
+and unrelated to each other. It’s essential we have common knowledge about our
+aims for the project.
+
+- As many of us don’t have prior experience with deploying an app or using
+software such as Thunkable or Adobe XD, we may run into compatibility issues. If
+ this is this case, we need a back-up to present for our presentation. This
+could simply be a graphical representation (the wireframe) of the apps features
+that we include in the power-point slides
+
 
 3.10 - Group Processes and Communications
+
+As our team learnt from working on Assignment 2, regular group communication was
+ key for organizing tasks, delegating work and establishing a common goal. This
+was particularly evident when we began scheduling video calls - whereas
+communication via chat although somewhat effective, doesn’t create the same
+sense of accountability or a team focus. For Assignment 3 & 5, communication
+will be achieved mostly through Microsoft Teams, and using student emails if
+necessary to contact members outside it.
+
+We have found Microsoft Teams to be effective for the majority of group
+processes, allowing us to delegate, explain and discuss tasks through creating
+specific channels, posts and scheduled video-chats. For our group, we have come
+to expect that we should communicate at least twice per week via video chat
+(through Microsoft Teams) as this is the most effective form of communication.
+Leading into the last 2 weeks of the assessment, this would be the bare minimum,
+ and we would strive for 3 or even 4 video chats for consolidation and reviewing
+ of the project before submission.
+
+Announcements and posts are made as necessary to update members of anything
+important outside these meetings. If we notice a complete absence of activity
+from members, such as no posts or missing scheduled meetings we may notify the
+subject coordinator to have them removed. However, as we cannot control
+individual contributions from members we have more or less adopted the
+philosophy that we ultimately cannot rely on others, and we must contribute as
+much as we can given any situation - this may include covering work delegated to
+ other members which was incomplete.
 
 
 4 - Skills and Jobs
