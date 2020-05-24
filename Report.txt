@@ -515,6 +515,23 @@ create a custom-built app for iOS and Android.
 
 3.7 - Testing
 
+For our project, we only expect limited functionality for our app - which would
+be a semi-working prototype allowing for user-authentication & login, and
+navigation through the different pages and entering user data for new trips. As
+the app will be developed using Thunkable, we can use it’s live-test feature to
+preview all the content, user-interactions and features as listed above before
+we decide to publish it for mobile use. This should give a general idea of how
+it should perform. Once running on a mobile, we still may encounter
+compatibility issues between different mobile operating systems,
+user-interaction / latency problems to issues with data retention and updates.
+To check for these errors across a range of devices, we could ask family or
+friends to test the app and notify us of any problems they encountered using
+their personal mobile devices. This would require at least 10 people, preferably
+ who were technologically literate, to gather some statistics of how well the
+app is functioning, noting the incidence of problems per device. We would aim
+for 95% of participants reporting no critical errors to consider our prototype a
+ success.
+
 
 3.8 - Timeframe
 
