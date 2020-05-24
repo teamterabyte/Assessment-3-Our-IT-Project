@@ -20,7 +20,21 @@ CONTENTS
 3.9   Risks....................................................................4
 3.10  Group Processes and Communications.......................................4
 4   SKILLS AND JOBS............................................................5
-5   GROUP REFLECTION...........................................................6
+4.1   Project Manager..........................................................5
+4.2   Designers................................................................5
+4.3   Developer................................................................5
+4.4   Quality Assurance Specialist.............................................5
+5   ARTIFACTS..................................................................6
+5.1   GlobeLogger App..........................................................6
+5.2   Firebase Database........................................................6
+5.3   GlobeLogger Website......................................................6
+6   GROUP REFLECTION...........................................................7
+6.1   Anabel Gonzalez..........................................................7
+6.2   Joel Baden...............................................................7
+6.3   Joseph Tselios...........................................................7
+6.4   Nathan Layt..............................................................7
+6.5   Summary..................................................................7
+
 
 1 - Team Profile
 Introduction to IT Group 7 - TEAM TERABYTE
@@ -36,18 +50,20 @@ couple of years I've been learning Graphic Design, on my own, which led me to
 open an Etsy Shop where I sell digital products and services.
 
 Joel Baden - Student Number: S3855896 - Team Terabyte
-From Geelong, however I have lived in Melbourne for 7 years and travel there
-often as my base of operations for work and athletics training. My interests are
-varied, as I grew up in a musical family I enjoy playing piano and guitar,
-creating my own music and producing for others. I've previously studied
-philosophy and enjoy a good argument around topics such as religion, logic,
-meanings etc. IT has always been present in my life, from my first Gameboy,
-playing games on desktops, recording music on specialised software, to
-completing this course through online means. IT is an important aspect of my
-daily life as I rely on my computer and mobile phone to complete many essential
-tasks, including creating and recording music via virtual workstation. In a
-professional sense, I'm interested in studying IT and programming due to the
-growing demand in that sector.
+24 year old from Geelong. My parents are from Australia, although I have German
+heritage on my Dad’s side of the family. My daily activities involve commuting
+to Melbourne multiple times a week for work and athletics training, whilst
+pursuing higher education on the side. My interests are varied, I grew up in a
+musical family and enjoy playing the piano & producing music. I like keeping
+fit, and regularly train and compete in local/international competitions for
+Athletics. IT has been a subject on my radar for the past year and a half, and I
+ have just recently decided to pursue it in higher education after
+ semi-completing both science & art degrees. My interest stems primarily from
+the growing demand in jobs within that sector and landing a job that involves a
+certain element of creativity. Most of my personal time is spent learning and
+mastering new software, mostly in the context of music production but also
+video-editing. Developing my knowledge in I.T is something I believe can
+complement my already existing passions whilst increasing my job prospects.
 
 Joseph Tselios - Student Number: S3858508 - Team Terabyte
 24 year old student currently living in Melbourne, Australia. My parents are
@@ -347,10 +363,11 @@ Establish a web presence - This would serve as an address for the project, for
 developers to work with and for users to connect.
 
 Progress-
-Incomplete - delayed by suggestion that an app would be better than a website
-based on feedback from A2.
 19/05/2020: Nathan created Git Repository that can display work in progress
 website through GitHub Pages.
+23/05/2020: Work in progress website published at
+https://teamterabyte.github.io/GlobeLogger/
+(Screenshot posted in Section 5 - Artifacts)
 
 Goal-
 Add the User Profile function - This is how users will access the platform and
@@ -365,7 +382,9 @@ user interface, it will store user information under their account name
 (ideally their unique email adress).
 
 Progress-
-Incomplete
+18/05/2020: Created database using Firebase account. Capable of connecting to
+the app prototype in Thunkable.
+
 
 Goal-
 Create an App - This would provide smartphone users with a user friendly way to
@@ -374,6 +393,10 @@ access the platform and path the way for additional features like GPS logging.
 Progress-
 18/05/2020: Anabel is designing screens for the app using Adobe XD.
 18/05/2020: Anabel and Joel are using Thunkable to develop the app.
+24/05/2020: Screenshots and Adobe XD links added to Section 5 - Artifacts
+24/05/2020: Prototype for app available for viewing at
+https://x.thunkable.com/copy/8b829253353708371f87fee95b887cb0 ,
+Screenshots and link added to Section 5 - Artifacts
 
 3.3 - Plans and Progress
 
@@ -425,8 +448,47 @@ I’LL ADD MORE INFO ON FRIDAY/SATURDAY
 
 3.4 - Roles
 
+In our group, roles for each member may include Administrator for Nathan, UI
+Designer for Anabel, (Designer/director?) for Joel , and content-professional
+for Joseph.
+
+Nathan can be assigned as such, as he conceived the original plan for
+GlobeLogger including the major features, and is active in directing the scope
+for the design or any additional features throughout its development.
+
+Anabel would be considered the UI designer, due to her past experience in
+graphics design and working with databases. She has covered the logos,
+animations, and is designing/developing the UI for our project.
+
+There isn’t a specified role for Joel, although he contributes with informing
+the scope of the design, features of the app, and design elements in the
+user-interface and assisting in the direction of the video-media to be
+presented.
+
+Joseph is the content-professional and spokes-person for the project. He was
+keen on contributing in a creative manner and had proficiency in
+editing/creating media-content. He would be responsible for producing media
+which encapsulates the project’s vision - highlighting it’s major features in an
+ engaging, marketable way.
 
 3.5 - Scope and Limits
+
+Considering our collective knowledge as a team, available time and given our
+project idea (which we want to develop into an app), we are limited in what we
+can deliver . As no one in our group has extensive knowledge in building /
+developing apps, we cannot expect our project idea to be fully-functional.
+Instead the focus will be to develop a semi-functional prototype using
+Thunkable, an app building website. It’s important that we still present our
+idea as clearly as possible through an extensive wireframe of the app,
+showcasing the graphical layout and relations between the different pages.
+We plan to deliver a workable prototype integrating the wireframe (with
+additional functionality) that can be accessed either online on the Thunkable
+website, or on mobile - in which the user can login, create an account, enter
+details for a new trip and navigate through the pages. We anticipate that other
+features included in our original design such as instant chat, an interactive
+map showing updated travel destinations, notifications, and a file/photo gallery
+ will still be displayed in the prototype, but will be non-functional -
+requiring additional time outside the assignment deadline to properly develop.
 
 
 3.6 - Tools and Technologies
@@ -456,8 +518,24 @@ Significant funding would be required, especially to maintain Firebase and to
 create a custom-built app for iOS and Android.
 
 
-
 3.7 - Testing
+
+For our project, we only expect limited functionality for our app - which would
+be a semi-working prototype allowing for user-authentication & login, and
+navigation through the different pages and entering user data for new trips. As
+the app will be developed using Thunkable, we can use it’s live-test feature to
+preview all the content, user-interactions and features as listed above before
+we decide to publish it for mobile use. This should give a general idea of how
+it should perform. Once running on a mobile, we still may encounter
+compatibility issues between different mobile operating systems,
+user-interaction / latency problems to issues with data retention and updates.
+To check for these errors across a range of devices, we could ask family or
+friends to test the app and notify us of any problems they encountered using
+their personal mobile devices. This would require at least 10 people, preferably
+ who were technologically literate, to gather some statistics of how well the
+app is functioning, noting the incidence of problems per device. We would aim
+for 95% of participants reporting no critical errors to consider our prototype a
+ success.
 
 
 3.8 - Timeframe
@@ -466,8 +544,66 @@ create a custom-built app for iOS and Android.
 
 3.9 - Risks
 
+- Being undecided on how to deliver the project idea (website vs app). We might
+not be able to deliver consistent or quality artefacts if we’re splitting our
+time between different platforms.
+
+- It is also important that we deliver our artefacts by a timely date, which can
+ be integrated into the final video-presentation. We need to have enough content
+ to allow for a 5 minute script that is relevant to what we've produced.
+
+- Software for creating the app prototype such as Adobe XD may be difficult to
+learn given our time-frame. The delivered prototype may contain bugs if we rush
+implementing this software into our project. If this is the case, we may only
+have the time to present a wire-frame of the app, including all the major
+features and include limited functionality such as buttons for navigating
+different pages, login/logout and user authentication.
+
+- A functional app for our project would ideally contain complex interactive
+animations that go beyond registering and inputting basic data - such as a photo
+ timeline and an interactive global map that displays a history of user’s prior
+travel destinations. It is unlikely that we will develop these features given
+our current knowledge and time-frame.
+
+- If we’re not realistic about what we can accomplish given our dead-line &
+don’t have a shared understanding, we run the risk of our work being fragmented
+and unrelated to each other. It’s essential we have common knowledge about our
+aims for the project.
+
+- As many of us don’t have prior experience with deploying an app or using
+software such as Thunkable or Adobe XD, we may run into compatibility issues. If
+ this is this case, we need a back-up to present for our presentation. This
+could simply be a graphical representation (the wireframe) of the apps features
+that we include in the power-point slides
+
 
 3.10 - Group Processes and Communications
+
+As our team learnt from working on Assignment 2, regular group communication was
+ key for organizing tasks, delegating work and establishing a common goal. This
+was particularly evident when we began scheduling video calls - whereas
+communication via chat although somewhat effective, doesn’t create the same
+sense of accountability or a team focus. For Assignment 3 & 5, communication
+will be achieved mostly through Microsoft Teams, and using student emails if
+necessary to contact members outside it.
+
+We have found Microsoft Teams to be effective for the majority of group
+processes, allowing us to delegate, explain and discuss tasks through creating
+specific channels, posts and scheduled video-chats. For our group, we have come
+to expect that we should communicate at least twice per week via video chat
+(through Microsoft Teams) as this is the most effective form of communication.
+Leading into the last 2 weeks of the assessment, this would be the bare minimum,
+ and we would strive for 3 or even 4 video chats for consolidation and reviewing
+ of the project before submission.
+
+Announcements and posts are made as necessary to update members of anything
+important outside these meetings. If we notice a complete absence of activity
+from members, such as no posts or missing scheduled meetings we may notify the
+subject coordinator to have them removed. However, as we cannot control
+individual contributions from members we have more or less adopted the
+philosophy that we ultimately cannot rely on others, and we must contribute as
+much as we can given any situation - this may include covering work delegated to
+ other members which was incomplete.
 
 
 4 - Skills and Jobs
@@ -477,13 +613,13 @@ Introduction and Context
 While developing our team project idea ‘GlobeLogger’ we were approached by
 venture capitalists who fell in love with our idea that they want to fund us to
 further development GlobeLogger even further. The time we have until expected
-completion is six months. I have been appointed as manager and am able to higher
+completion is six months. I have been appointed as manager and am able to hire
  4 people to assist with the development of the GlobeLogger. The questions that
 you will all be asking is what positions would I choose? What skills with they
 require? Find out all the answers below.
 
 
-Position #1 – Project Manager
+4.1 – Project Manager
 
 We are a new organization that is coming up in the IT industry. If you are to
 join us, you will experience what it is like to be part of a dynamic, growing,
@@ -518,15 +654,11 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
-
-To apply for this position, hit the “apply for this job” button below
-
-(reference to ad that I compared mine to
-https://www.seek.com.au/job/41346507?type=standard#searchRequestToken=5af67e2f-cd7a-45d0-a2ba-ad6f9214e606)
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 
-Position #2 – Designers
+4.2 – Designer
 
 We are a new organization that is coming up in the IT industry. If you are to
 join us, you will experience what it is like to be part of a dynamic, growing,
@@ -557,12 +689,9 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
-To apply for this position, hit the “apply for this job” button below
-
-(Reference to ad that I compared mine to
-https://www.seek.com.au/job/41319542?type=standard#searchRequestToken=4370eb84-0e1a-4370-9a6e-232ba053950d)
 
 Position #3 – Developer
 
@@ -601,12 +730,8 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
-
-To apply for this position, hit the “apply for this job” button below
-
-(Ad that I compared mine to
-https://www.seek.com.au/job/41351525?type=standout#searchRequestToken=9bf936c4-a547-44b9-a86c-ba91fc38314e)
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 
 Position #4 – Quality Assurance Specialist
@@ -642,22 +767,107 @@ only your life, but all the lives around you. We also offer you the following:
 
 Competitive Remuneration
 Roster flexibility
-Annual flu vaccinations
-
-(Reference to the ad that I compared mine to
-seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847c-f69f9b40b838)
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
 
 
+5 - Artifacts
 
-5 - Group Reflection
+5.1 GlobeLogger App
 
-5.1 Anabel Gonzalez
+-Screens
 
-5.2 Joel Baden
+    (insert image: adobexd.png)
 
-5.3 Joseph Tselios
+5.2 Firebase Database
 
-5.4 Nathan Layt
+For the database component we have created a Firebase account using the free
+tier and selected the authentication built in function plus the real time
+database. We have built the login functionality using Thunkable’s Firebase
+Sign In component.
+
+Every time a user creates an account the information is sent and stored in the
+database. The user receives an email from Firebase to validate it.
+
+The built in authentication function from Firebase also allows to use social
+media or gmail accounts to login, but we have decided to use the email only for
+the prototype and consider to add the other options in the future.
+
+The security rules for the database require the user to be authenticated in
+order for them to be granted write & read permissions.
+
+Once the user logs in, the profile will be shown and is possible to add profile
+picture and start adding destinations.
+
+Displayed at https://globelogger.firebaseio.com/
+
+    (insert screenshots)
+
+5.3 GlobeLogger Website
+
+Displayed at - https://teamterabyte.github.io/GlobeLogger/
+
+    (insert screenshots)
+
+
+6 - Group Reflection
+
+6.1 Anabel Gonzalez
+
+Being part of Team Terabyte has been challenging and rewarding at the same time.
+ I’ve learned how difficult it can be balancing life and study, communicating
+with people that I barely know and trusting others when delegating tasks. Even
+though the team's communication for this assessment has improved, compared to
+the previous one, I still believe that there is room for improvement as a group.
+ I am really pleased to see what we have achieved as a team so far but I also
+think that we could have produced a better final result & prototype if we had
+collaborated more and managed time more efficiently. The project scope was
+quite complex and individual members contribution wasn't enough to deliver an
+artefact with more features and functions. Our weekly video conferences were
+really productive and the report was written collaboratively. Although, I
+strongly believe that if we would have counted with the presence of all team
+members during at least some of the video conferences, it would have made a big
+difference in the final result. We have tried to incorporate Github for version
+control, but our main collaboration tool remained to be MS Team.
+
+6.2 Joel Baden
+
+My experience with the group working towards our project idea was a lot smoother
+ and straight-forward than when we first met for Assignment 2, despite a few
+set-backs. By that stage we had established some good routines for communicating
+ & file-sharing, using face-time meetings effectively for clarifying, delegating
+ and prioritising tasks (we held roughly two meetings per week). Between the
+more active members (Nathan & Anabel), meetings were enjoyable and constructive
+as we learned to rely on each other's skill-sets. Despite starting earlier on
+our previous assignment, we would have benefitted from starting in the 2nd or
+3rd week as we only had 4 members in our group to split the workload. This would
+ have allowed us to develop our project further. However given our situation, I
+was surprised by the amount of work we outputted and was especially impressed by
+ how professional our prototype for GlobeLogger looked, despite it still being
+in the early stages of development (props to Anabel). A big take-away that I’ve
+learnt about group functioning would be the  importance of regular communication
+ and trusting others. It ensures there’s a collective understanding when
+assigning tasks, and creates a sense of accountability that motivates work and
+sticking to deadlines.
+
+6.3 Joseph Tselios
+
+Being a member of Team Terabyte has been great, and I really do appreciate the
+other members in the group. I do believe that the team’s strengths are found in
+the leadership roles that Anabel and Nathan held. They both made sure that this
+project ran as smoothly as possible and I do believe that they did achieve that.
+ Communication to get work done amongst all members sufficed my expectations and
+ I do believe that Nathan and Anabel are to thank for this. While our
+ communication for completing tasks was done well, I believe that our
+understanding of each other’s expectations and ideas fall through. At one-point
+half the group thought we were going to design a website while the other half
+thought we were designing an application. I believe that the amount of ‘teams’
+that we have on Microsoft teams may have been a contributing factor to the
+confusion. I’ve learned that when working in groups, you need to have a lot of
+time spare to dedicate to the group to get proper results. I was surprised with
+the quality of work that we were able to produce regardless of miscommunication.
+
+6.4 Nathan Layt
 The group did well to identify the problems of the previous assignment and make
 adjustments to work towards a more successful collaboration.
 
@@ -674,7 +884,7 @@ and experimentation was required to select the tools that would allow us to
 develop our project to a prototype stage in the very limited time given to us in
  this assignment.
 
-The group was surprised and dissapointed when the highly critical feedback of
+The group was surprised and disappointed when the highly critical feedback of
 Assignment 2 arrived, and our vision for the project was transformed by the
 suggestion that we should produce an app rather than a website. However, we now
 had everything that was needed to start producing content as the adjusted
@@ -687,38 +897,43 @@ The proper use of GitHub for version control and log of activity could have been
  work is well documented in GitHub, a better idea of the contribution of other
 members is reflected by the MS Teams hub.
 
-5.5 Summary
+6.5 Summary
+
 Working as a group, we certainly developed our communication, organisation and a
  sense of accountability to each other from our first Assignment. The majority
-of group processes and communication were achieved on Microsoft Teams, and 
+of group processes and communication were achieved on Microsoft Teams, and
 having experience using it from the previous assessment, we were able to use it
  proficiently allowing for better communication, scheduling regular meetings
 and delegating tasks - which improved our overall workflow and motivation.
-This time round, we capitalised on the strengths and skills of each member,
-assigning specific tasks that suited their strengths. For example, due to her
-background in app design, Anabel was tasked with the role of building and
-designing the app, whilst the scope and vision of the project was assigned to
-Joel and Nathan - maximising our efficiency as a team. This in conjunction
-with starting earlier on our project and establishing good habits of
-communication allowed for better quality work.
+This time round, we capitalised on the skills of each member, assigning
+specific tasks that suited their strengths. For example, due to her background
+in app design, Anabel was tasked with the role of building and designing the
+app, whilst the scope and vision of the project was assigned to Joel and Nathan,
+ leaving Joseph to developing the video-content for the final presentation -
+maximising our efficiency as a team. This in conjunction with starting earlier
+on our project and establishing good habits of communication allowed for better
+quality work.
 
-As we had a small number of active members contributing to the project,
-it would have benefitted us to start earlier, anticipating the additional
-workload. Had we allowed for this, we could have developed a more substantial
-prototype than what we delivered - in which the functionality was quite limited.
-This was also due in part to an unequal distribution of work, as a particular
-member was not actively participating in our weekly video-chats, and thus
-missing out on crucial-information keeping them uninformed on group processes
-and the direction of the project. This could of been easily prevented by them
+As we had a small number of members contributing to the project, it would have
+benefitted us to start earlier, anticipating the additional workload. Had we
+allowed for this, we could have developed a more substantial prototype than what
+ we delivered - in which the functionality was quite limited. Unfortunately the
+distribution of work was relatively unequal between members at times or tasks
+were left quite late, which caused undue stress on some members - this was most
+apparent when developing the story-board and video-presentation. In terms of
+communication, although we set adequate meetings, not all members (Joseph)
+actively participated in our regular, group video-chats, thus missing out on
+crucial-information at times & keeping them uninformed on group processes and
+the direction of the project. This could of been easily prevented by them
 actively participating in these sessions, keeping updated with the rest of the
 group.
 
 Similar to our experience working on Assignment 2, we were surprised by how much
  regular communication (face-to-face) plays in creating a shared sense of
 accountability, and motivation - which has the secondary effect of alleviating
-the pressure which arises from feeling like your working alone. We have learnt
-how valuable it is to have meetings such as these at semi-regular intervals to
-keep updated and focussed on specific tasks. In addition, we have learnt that
-successfully working as a team requires that each member is equally motivated,
-plays to their strengths and contributes in an equal fashion. The outcome of
-group work is linked to the group's cohesiveness.
+the pressure which arises from feeling like you're working alone. We have
+learnt how valuable it is to have meetings such as these at semi-regular
+intervals to keep updated and focused on specific tasks. In addition, we have
+learnt that successfully working as a team requires that each member is equally
+ motivated, plays to their strengths and contributes in an equal fashion. The
+outcome of group work is linked to the group's cohesiveness.
