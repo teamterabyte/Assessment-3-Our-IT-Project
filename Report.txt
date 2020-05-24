@@ -468,6 +468,23 @@ which encapsulates the project’s vision - highlighting it’s major features i
 
 3.5 - Scope and Limits
 
+Considering our collective knowledge as a team, available time and given our
+project idea (which we want to develop into an app), we are limited in what we
+can deliver . As no one in our group has extensive knowledge in building /
+developing apps, we cannot expect our project idea to be fully-functional.
+Instead the focus will be to develop a semi-functional prototype using
+Thunkable, an app building website. It’s important that we still present our
+idea as clearly as possible through an extensive wireframe of the app,
+showcasing the graphical layout and relations between the different pages.
+We plan to deliver a workable prototype integrating the wireframe (with
+additional functionality) that can be accessed either online on the Thunkable
+website, or on mobile - in which the user can login, create an account, enter
+details for a new trip and navigate through the pages. We anticipate that other
+features included in our original design such as instant chat, an interactive
+map showing updated travel destinations, notifications, and a file/photo gallery
+ will still be displayed in the prototype, but will be non-functional -
+requiring additional time outside the assignment deadline to properly develop.
+
 
 3.6 - Tools and Technologies
 
@@ -494,7 +511,6 @@ backend to authenticate users and we can assign different permission levels to
 write and read data.
 Significant funding would be required, especially to maintain Firebase and to
 create a custom-built app for iOS and Android.
-
 
 
 3.7 - Testing
@@ -561,11 +577,6 @@ Roster flexibility
 Flexible working hours & posibility to work from home
 Free Gym and Yoga membership
 
-To apply for this position, hit the “apply for this job” button below
-
-(reference to ad that I compared mine to
-https://www.seek.com.au/job/41346507?type=standard#searchRequestToken=5af67e2f-cd7a-45d0-a2ba-ad6f9214e606)
-
 
 4.2 – Designer
 
@@ -601,10 +612,6 @@ Roster flexibility
 Flexible working hours & posibility to work from home
 Free Gym and Yoga membership
 
-To apply for this position, hit the “apply for this job” button below
-
-(Reference to ad that I compared mine to
-https://www.seek.com.au/job/41319542?type=standard#searchRequestToken=4370eb84-0e1a-4370-9a6e-232ba053950d)
 
 Position #3 – Developer
 
@@ -646,11 +653,6 @@ Roster flexibility
 Flexible working hours & posibility to work from home
 Free Gym and Yoga membership
 
-To apply for this position, hit the “apply for this job” button below
-
-(Ad that I compared mine to
-https://www.seek.com.au/job/41351525?type=standout#searchRequestToken=9bf936c4-a547-44b9-a86c-ba91fc38314e)
-
 
 Position #4 – Quality Assurance Specialist
 
@@ -688,13 +690,14 @@ Roster flexibility
 Flexible working hours & posibility to work from home
 Free Gym and Yoga membership
 
-(Reference to the ad that I compared mine to
-seek.com.au/job/41311914?type=standard#searchRequestToken=505d9260-4ffc-44c6-847c-f69f9b40b838)
 
 5 - Artifacts
 
 5.1 GlobeLogger App
 
+-Screens
+
+    (insert image: adobexd.png)
 
 5.2 Firebase Database
 
