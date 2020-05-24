@@ -363,12 +363,11 @@ Establish a web presence - This would serve as an address for the project, for
 developers to work with and for users to connect.
 
 Progress-
-Incomplete - delayed by suggestion that an app would be better than a website
-based on feedback from A2.
 19/05/2020: Nathan created Git Repository that can display work in progress
 website through GitHub Pages.
 23/05/2020: Work in progress website published at
 https://teamterabyte.github.io/GlobeLogger/
+(Screenshot posted in Section 5 - Artifacts)
 
 Goal-
 Add the User Profile function - This is how users will access the platform and
@@ -383,7 +382,9 @@ user interface, it will store user information under their account name
 (ideally their unique email adress).
 
 Progress-
-Incomplete
+18/05/2020: Created database using Firebase account. Capable of connecting to
+the app prototype in Thunkable.
+
 
 Goal-
 Create an App - This would provide smartphone users with a user friendly way to
@@ -392,6 +393,10 @@ access the platform and path the way for additional features like GPS logging.
 Progress-
 18/05/2020: Anabel is designing screens for the app using Adobe XD.
 18/05/2020: Anabel and Joel are using Thunkable to develop the app.
+24/05/2020: Screenshots and Adobe XD links added to Section 5 - Artifacts
+24/05/2020: Prototype for app available for viewing at
+https://x.thunkable.com/copy/8b829253353708371f87fee95b887cb0 ,
+Screenshots and link added to Section 5 - Artifacts
 
 3.3 - Plans and Progress
 
@@ -776,13 +781,39 @@ Free Gym and Yoga membership
 
 5.2 Firebase Database
 
+For the database component we have created a Firebase account using the free
+tier and selected the authentication built in function plus the real time
+database. We have built the login functionality using Thunkable’s Firebase
+Sign In component.
+
+Every time a user creates an account the information is sent and stored in the
+database. The user receives an email from Firebase to validate it.
+
+The built in authentication function from Firebase also allows to use social
+media or gmail accounts to login, but we have decided to use the email only for
+the prototype and consider to add the other options in the future.
+
+The security rules for the database require the user to be authenticated in
+order for them to be granted write & read permissions.
+
+Once the user logs in, the profile will be shown and is possible to add profile
+picture and start adding destinations.
+
+Displayed at https://globelogger.firebaseio.com/
+
+    (insert screenshots)
 
 5.3 GlobeLogger Website
+
+Displayed at - https://teamterabyte.github.io/GlobeLogger/
+
+    (insert screenshots)
 
 
 6 - Group Reflection
 
 6.1 Anabel Gonzalez
+
 Being part of Team Terabyte has been challenging and rewarding at the same time.
  I’ve learned how difficult it can be balancing life and study, communicating
 with people that I barely know and trusting others when delegating tasks. Even
@@ -800,6 +831,7 @@ difference in the final result. We have tried to incorporate Github for version
 control, but our main collaboration tool remained to be MS Team.
 
 6.2 Joel Baden
+
 My experience with the group working towards our project idea was a lot smoother
  and straight-forward than when we first met for Assignment 2, despite a few
 set-backs. By that stage we had established some good routines for communicating
@@ -819,6 +851,7 @@ assigning tasks, and creates a sense of accountability that motivates work and
 sticking to deadlines.
 
 6.3 Joseph Tselios
+
 Being a member of Team Terabyte has been great, and I really do appreciate the
 other members in the group. I do believe that the team’s strengths are found in
 the leadership roles that Anabel and Nathan held. They both made sure that this
@@ -865,6 +898,7 @@ The proper use of GitHub for version control and log of activity could have been
 members is reflected by the MS Teams hub.
 
 6.5 Summary
+
 Working as a group, we certainly developed our communication, organisation and a
  sense of accountability to each other from our first Assignment. The majority
 of group processes and communication were achieved on Microsoft Teams, and
