@@ -1,0 +1,939 @@
+Team Terabyte - A3: Our IT Project
+
+CONTENTS
+1   TEAM PROFILE...............................................................2
+1.1   Team Information.........................................................2
+1.2   Test Results.............................................................2
+1.3   Ideal Jobs...............................................................2
+1.4   Group Processes..........................................................2
+1.5   Career Plans.............................................................2
+2   TOOLS......................................................................3
+3   PROJECT DESCRIPTION........................................................4
+3.1   Overview.................................................................4
+3.2   Aims.....................................................................4
+3.3   Plans and Progress.......................................................4
+3.4   Roles....................................................................4
+3.5   Scope and Limits.........................................................4
+3.6   Tools and Technologies...................................................4
+3.7   Testing..................................................................4
+3.8   Timeframe................................................................4
+3.9   Risks....................................................................4
+3.10  Group Processes and Communications.......................................4
+4   SKILLS AND JOBS............................................................5
+4.1   Project Manager..........................................................5
+4.2   Designers................................................................5
+4.3   Developer................................................................5
+4.4   Quality Assurance Specialist.............................................5
+5   ARTIFACTS..................................................................6
+5.1   GlobeLogger App..........................................................6
+5.2   Firebase Database........................................................6
+5.3   GlobeLogger Website......................................................6
+6   GROUP REFLECTION...........................................................7
+6.1   Anabel Gonzalez..........................................................7
+6.2   Joel Baden...............................................................7
+6.3   Joseph Tselios...........................................................7
+6.4   Nathan Layt..............................................................7
+6.5   Summary..................................................................7
+
+
+1 - Team Profile
+Introduction to IT Group 7 - TEAM TERABYTE
+
+1.1 - Team Information
+
+Anabel Gonzalez - Student Number S3858832 - Team Terabyte
+31 year old student from Argentina, I moved to Australia eight years ago. My
+native language is Spanish, I took English classes in high school but I'm mostly
+self-taught. I finished my Diploma of Website Development two months ago and I
+want to progress in my career by pursuing a Bachelors Degree. Over the last
+couple of years I've been learning Graphic Design, on my own, which led me to
+open an Etsy Shop where I sell digital products and services.
+
+Joel Baden - Student Number: S3855896 - Team Terabyte
+24 year old from Geelong. My parents are from Australia, although I have German
+heritage on my Dad’s side of the family. My daily activities involve commuting
+to Melbourne multiple times a week for work and athletics training, whilst
+pursuing higher education on the side. My interests are varied, I grew up in a
+musical family and enjoy playing the piano & producing music. I like keeping
+fit, and regularly train and compete in local/international competitions for
+Athletics. IT has been a subject on my radar for the past year and a half, and I
+ have just recently decided to pursue it in higher education after
+ semi-completing both science & art degrees. My interest stems primarily from
+the growing demand in jobs within that sector and landing a job that involves a
+certain element of creativity. Most of my personal time is spent learning and
+mastering new software, mostly in the context of music production but also
+video-editing. Developing my knowledge in I.T is something I believe can
+complement my already existing passions whilst increasing my job prospects.
+
+Joseph Tselios - Student Number: S3858508 - Team Terabyte
+24 year old student currently living in Melbourne, Australia. My parents are
+from Greece and Italy, however I still consider myself to be Australian. My
+education has been placed on hold for a few years since I started to work full
+time at a very young age, however I'm back at it again with a focus on finding
+a career that I'm passionate about. My hobbies are listening to music, working
+out and, of course, League of Legends. I have very little experience in IT but I
+hope that my education and professionalism will encourage employers to give me
+an opportunity.
+
+Nathan Layt - Student Number: S3831623 - Team Terabyte
+34 year old student from Brisbane. I went to school at Westside Christian
+College then I went to work for Murrays Mining Services, a family company
+specialising in underground coal mining machinery parts and repairs. I worked
+as a Service Clerk then as a Sales Administrator at Komatsu and I worked as a
+Geotechnician for Xstrata Mount Isa Mines. My interest in IT started when I was
+very young and had a keen interest in computer games which lead to an interest
+in building and upgrading computers. My IT experience started with what I
+learned growing up with a PC and expands to the areas I learned and developed
+throughout my career including MS Office Suite, database building and
+administration, SAP experience and even basic programming of instrumentation.
+Probably my favourite hobby is travelling, which is what lead to our project
+idea. I started travelling overseas when I was 15 and I've been to over 20
+countries, with long stays in Germany and Thailand. I have forgotten most of my
+German language but I speak Thai ok with a north-eastern dialect.
+
+1.2 - Test Results
+Since we have each completed 3 personality tests to better understand ourselves,
+we are able to analyse the differences and similarities between group members.
+The key takeaways from these tests are the type of personalities that we each
+have and what we offer to the group.
+
+While Joseph is classified as a 'protagonist' that is quite extroverted,
+intuitive and feeling based, Nathan, Joel and Anabel were classified as being
+the more introverted personality types. This suggests that Nathan, Joel and
+Anabel should be able to quietly achieve things within the group, while Joseph
+may be more likely to spark the start of a conversation, bringing new topics to
+light so that all aspects of the project will be covered.
+
+Interestingly, Nathan has the quality of being introverted but also providing
+leadership towards the group, and this has been evident in our work so far.
+Anabel is classified as a 'mediator' which is a very important personality to
+have in a group. If conflict ever occurs, we may be able to look towards Anabel
+to assess the situation and figure out conflict resolution quickly and easily.
+
+1.3 Ideal Jobs
+Within the group we see quite a bit of difference between each other's ideal
+jobs, while containing some overlap in required knowledge, they are mostly
+distinct in their end goals. Nathan, Joel and Anabel are all interested in what
+appears to be frontend developing environments that involve user experience,
+user interface designs and require an in-depth understanding of programming
+languages like Javascript and CSS. Both Joel and Anabel's ideal jobs as a web
+developer and as an iOS developer further require strong graphic design skills
+and mobile app experience, despite the end products being different in nature -
+website vs iOS applications. Nathan's job description, whilst requiring many of
+the same skills, does not specify a particular platform to which the software
+will be implemented, perhaps indicating a more general development role.
+Joseph's ideal job for a Level 1 IT Help Desk position requires a different set
+of skills, unique to the rest of the group, including telephone and remote
+support for end-users, installation and configuring of client's desktops and
+on-site technical support. This position does not involve developing products
+but is more about technical support in the service industry. Although members of
+the group are not currently qualified for their ideal jobs, everyone is working
+towards it, either through the completion of a degree in IT with RMIT or other
+relevant certificates.
+
+1.4 Group Processes
+The active members of the group worked well together in Assignment 2, to
+overcome the disadvantage of inactive members, quickly adaping to the challenges
+of working in a group to produce a satisfactory result. MS Teams proved a very
+effective collaboration platform and will no doubt continue to serve the team
+well in Assignment 3. Regular online meetings were very productive, the only
+change that would be good in A3 is the attendance of all group members. A2
+lacked the appropriate use of version control which affected group members that
+were waiting on others to finish work instead of proper collaboration. The lack
+of version control was also noted in feedback and had a negative effect on A2
+marking, so the major process change for A3 will be the implementation of proper
+version control through effective use of GitHub and any other relevant tools.
+
+1.5 - Career Plans
+
+Anabel Gonzalez
+Short-term (3+ years):
+- Graduate as a Bachelor of IT
+- Get a job as a junior web or iOS app developer. As mentioned before, become a
+web developer and/or iOS developer is my ideal job and after reading the tutor's
+ feedback my plans haven't changed.
+
+The goal is to learn all the required skills to become an efficient and
+successful developer. Examples of technologies, programming languages or skills
+that I would like to learn are:
+- Php, Java, Swift, JavaScript
+- Databases design, management and development
+- Systems design - MVP development
+- Project management - UX/UI basics
+- Cybersecurity
+
+Medium-term (5+ years):
+- Become a Senior/Lead Developer The goal is to gain experience in managing
+teams, deadlines, budgets, etc.
+
+Long-term (8+ years):
+- Study an MBA Postgraduate course
+- Start a website & app development agency
+
+The goal is to acquire all the required knowledge to run a business so I can
+then create and run a company specialised on eCommerce website & app development
+ to help businesses with their online store needs
+
+Joel Baden
+Short Term (3+ years)
+- Graduate in a Bachelor of IT
+- Get work experience in any IT related job, such as an IT help desk position
+or web-design and development. Ideally having work experience in the field in
+conjunction with completing my bachelor will prepare me well for more complex
+positions and will help narrow out what aspects within IT I find most engaging.
+- Gain an general understanding of essential skills such as programming
+languages, working with databases, graphic design and project management.
+
+Medium-Long Term goals include:
+- Working in web-design or development
+- Create my own web-design business
+- Possibly pursuing a programming position within an audio-plugin company
+- Learning the relevant skills, programming languages and techniques.
+Luckily c++ is widely used to design audio plugins and vst’s, so I would expect
+to already have some experience working with this language.
+- Depending on whether I get ample experience, I would like to start my own
+audio-plugin company.
+
+Joseph Tselios
+Short-term (3+ years):
+- Graduate with a bachelor of Information Technology
+- Get a job as a helpdesk officer or a low level IT job that will introduce me
+to the industry.
+
+After reading the tutor's feedback my plans have actually changed. I’ve looked
+towards the future more deeply and I would like to eventually create software
+that assists with peoples lives in all aspects. Whether it be through
+entertainment, healthcare I want to create software’s that can better us as
+people.
+
+The skills I will need to learn will be vast, but the starting skills I’ll need
+will be:
+- Mathematical aptitude
+- Problem-solving skills
+- Programming languages (different types of developer role require different
+languages)
+- Excellent organizational and time management skills
+- Accuracy and attention to detail
+- An understanding of the latest trends and their role in a commercial
+environment
+- Teamwork skills
+- Self-development skills to keep up to date with fast-changing trends
+
+ Long-term (8+ years):
+- Develop a software to change peoples lives
+
+Nathan Layt
+Short Term (3+ years)
+-Complete Bachelors Degree in Information Technology or related field.
+-Secure a Graduate position with a reputable company in Brisbane.
+
+This is consistant with my ideal job, which has not changed after feedback.
+
+Medium Term (5+ years)
+Gain experience by working in roles for 2-3 years then applying for more senior
+roles or roles in different companies and industries.
+
+Long Term (8+ Years)
+Complete a postgraduate degree (Masters)
+Eventually I would like to use my experience to start my own business or move on
+ to a training or educational role.
+
+Summary
+All group members plan on completing a Bachelor of Information Technology or
+similar degree as part of their short term career plans. Securing an entry level
+ job is also part of the short term plan for all group members. Anabel and
+Joseph both have a specific role in mind, whereas Joel and Nathan both have the
+more general goal of securing any entry level role in the IT industry. Joseph
+notes that his career plans have changed as a result of feedback from his tutor,
+ other group members note that their plans remain unchanged.
+
+All group members note that work experience through employment is an essential
+part of their medium term career plans. Anabel and Nathan note that securing a
+more senior position could be the motivation for gaining experience. Most
+members identify programming as an area where they would like to develop their
+skills.
+
+In the long term, Anabel and Nathan both plan to gain further education through
+postgraduate courses. All members plan on using their experience to do something
+ that they can call their own. Anabel, Joel and Nathan all mention a desire to
+start their own business and Joseph would like to develop his own software,
+which could mean starting his own business or it could mean securing a role for
+a company that would pay him to develop the software. Nathan is the only member
+considering training or teaching.
+
+Although there are some slight difference in career plans for all group members,
+ it is interesting to see how similar our ideas for the future are, even in the
+long term.
+
+
+2 - Tools
+
+As was the case in Assignment 2, MS Teams was the main platform for discussion
+and collaboration. GitHub Desktop and Atom Text Editor were used to facilitate
+better utilisation of GitHub to provide version control and a log of activity.
+
+Link to Group's Website -
+
+Link to Group's Git Repository -
+https://github.com/teamterabyte/Assessment-3-Our-IT-Project
+
+The audit trail on the Git repository ...(insert comments)
+
+3 - Project Description
+
+
+3.1 - Overview
+
+3.1.1 Topic
+
+GlobeLogger would be aimed specifically at people that frequently travel
+overseas. The main purpose is to serve as an accurate record of travel
+destinations and dates, as well as giving the user a feeling of accomplishment
+ with every location added.
+Our objective is to lunch a Beta version of the web app with limited
+functionality that we can improve in the future.
+
+3.1.2 Motivation
+
+Nathan, one of Team Terabyte’s members, is an avid traveller that visited more
+than 20 countries. He had a vision of creating a web application to record all
+the places he has visited in the past and plan new destination ideas. As a team,
+ we found the idea really interesting and decided to choose it as the team’s
+ project.
+We strongly believe that the project is an excellent portfolio item to show
+prospective employers not only our capabilities as developers but also our
+ability to work as part of a team.
+
+3.1.3 Landscape
+
+Millennials (Ages 24-39) love to travel and they make it a priority in their
+lives . They save a large part of their incomes to afford travelling across
+different local and international destinations.
+There are several companies that offer advice to travellers and even products or
+ services. This fact is not a surprise as millennials are the largest generation
+ up to date representing a 31.5% of the global population. In 2018 only, US
+millennials spent $200 billion on travel.   Examples of social media  web apps
+ and mobile apps for travellers are:
+
+  •	Travelloapp - https://travelloapp.com/
+
+  Travello is a social media app where travellers can meet, connect and learn
+  from others. It has a reward system where users can earn points and exchange
+  them for Travello experiences.
+  Users can also share travel updates and photos and discover deals.
+
+  •	Tripadvisor – https://www.tripadvisor.com.au/
+
+  Tripadvisor is an online travel company. Is not strictly a social media but
+  has a big component of user-generated content, where readers can share
+  experiences, rate hotels and restaurants and share photos of the places
+  they’ve been to.
+
+GlobeLogger features are similar to Travelloapp, users can display the places
+they have visited in the past and connect with other travellers. However,
+GlobeLogger will not offer reward systems or meeting. GlobeLogger doesn’t share
+many similarities with Tripadvisor other than the ability to add destinations to
+ the user profile and the social media-like style of the website.
+
+
+3.2 - Aims
+
+The aim is to have a fully operational, bug free, user friendly and entertaining
+ social media orientated platform for planning, logging and sharing travel
+information through an online profile. The platform would serve as a diary type
+recording option for frequent travelers that would enjoy keeping track of
+things, and provide users with a way to view their destinations as visually
+displayed achievements that they can share with their friends, family and
+other contacts.
+
+To fulfill this aim our project team will need to achieve the following goals:
+
+Goal-
+Come up with a name and logo for the platform - This is an essential starting
+point. Success in this area means creating something that people will recognise
+and remember.
+
+Progress-
+03/05/2020: MS Teams discussion used to establish the name, "Globelogger".
+09/05/2020: 2 Logo options created by Anabel posted to the Project Name section
+of MS Teams.
+
+Goal-
+Establish a web presence - This would serve as an address for the project, for
+developers to work with and for users to connect.
+
+Progress-
+19/05/2020: Nathan created Git Repository that can display work in progress
+website through GitHub Pages.
+23/05/2020: Work in progress website published at
+https://teamterabyte.github.io/GlobeLogger/
+(Screenshot posted in Section 5 - Artifacts)
+
+Goal-
+Add the User Profile function - This is how users will access the platform and
+store and update their information.
+
+Progress-
+Incomplete
+
+Goal-
+Build a database - This will be the backbone of the project. Updated through the
+user interface, it will store user information under their account name
+(ideally their unique email adress).
+
+Progress-
+18/05/2020: Created database using Firebase account. Capable of connecting to
+the app prototype in Thunkable.
+
+
+Goal-
+Create an App - This would provide smartphone users with a user friendly way to
+access the platform and path the way for additional features like GPS logging.
+
+Progress-
+18/05/2020: Anabel is designing screens for the app using Adobe XD.
+18/05/2020: Anabel and Joel are using Thunkable to develop the app.
+24/05/2020: Screenshots and Adobe XD links added to Section 5 - Artifacts
+24/05/2020: Prototype for app available for viewing at
+https://x.thunkable.com/copy/8b829253353708371f87fee95b887cb0 ,
+Screenshots and link added to Section 5 - Artifacts
+
+3.3 - Plans and Progress
+
+The project idea for our previous assessment was to create a social media
+platform for travellers and to build a responsive web app from scratch. However
+due to the feedback received we decided to change our plan and build an app
+instead of a website. Our technical skills and knowledge are not up to the
+challenge so after careful consideration we decided to use Thunkable, a platform
+ with advanced features to build apps without writing code. Our intention is to
+create a prototype for demonstration purposes, with some of the GlobeLogger’s
+features. We will explain more about Thunkable and the development process in
+the Tools and Technologies section.
+Nathan, the original creator of GlobeLogger, had a clear picture in his mind of
+how the app would look like and the features that would need to be included.
+Some of the characteristics and features are:
+
+  •	Users need to create an account and sign in to be able to use the app. The
+  details required are name (including first and last), email address, password
+  and D.O.B.
+  •	The users can edit their profile, add a profile image and current location.
+  A single profile picture would be a central part of the user profile, this
+  picture could be changed at any time however the platform would not store
+  multiple profile pictures.
+  •	Central to the profile would be a map highlighting travelled destinations,
+  with an option to select specific locations to record / reveal more detailed
+  information. This section, however, would be difficult if not impossible to
+  implement using Thunkable.
+  •	The user would enter travel times to display an accurate timeline. As
+  previous travel may have happened a long time ago and exact dates could be
+  difficult, trips that are entered into a profile would have optional selectio
+  n for the year, month and day.
+  •	Number of countries travelled to would be prominently displayed and have the
+   feel of a “score” for the profile.
+  •	You could add photos of specific destinations by selecting the relevant
+  trip. The maximum number of photos for each country / trip would be quite
+  limited as their purpose would mostly be for the memory of the profile user /
+  proof of the trip / historical record more than the option of photos taking
+  over the desired purpose of the platform if people wanted to flood their
+  profiles with travel pics they wanted to share with their friends / the
+  community.
+  •	Users would be part of a network of friends that could view each other’s
+  profiles and share their current travel activities.
+
+We’ve designed the app UI using Adobe XD to demonstrate the app to potential
+investors and developers. Designing the app screens also help to develop the
+database and the Thunkable app prototype.
+
+I’LL ADD MORE INFO ON FRIDAY/SATURDAY
+
+3.4 - Roles
+
+In our group, roles for each member may include Administrator for Nathan, UI
+Designer for Anabel, (Designer/director?) for Joel , and content-professional
+for Joseph.
+
+Nathan can be assigned as such, as he conceived the original plan for
+GlobeLogger including the major features, and is active in directing the scope
+for the design or any additional features throughout its development.
+
+Anabel would be considered the UI designer, due to her past experience in
+graphics design and working with databases. She has covered the logos,
+animations, and is designing/developing the UI for our project.
+
+There isn’t a specified role for Joel, although he contributes with informing
+the scope of the design, features of the app, and design elements in the
+user-interface and assisting in the direction of the video-media to be
+presented.
+
+Joseph is the content-professional and spokes-person for the project. He was
+keen on contributing in a creative manner and had proficiency in
+editing/creating media-content. He would be responsible for producing media
+which encapsulates the project’s vision - highlighting it’s major features in an
+ engaging, marketable way.
+
+3.5 - Scope and Limits
+
+Considering our collective knowledge as a team, available time and given our
+project idea (which we want to develop into an app), we are limited in what we
+can deliver . As no one in our group has extensive knowledge in building /
+developing apps, we cannot expect our project idea to be fully-functional.
+Instead the focus will be to develop a semi-functional prototype using
+Thunkable, an app building website. It’s important that we still present our
+idea as clearly as possible through an extensive wireframe of the app,
+showcasing the graphical layout and relations between the different pages.
+We plan to deliver a workable prototype integrating the wireframe (with
+additional functionality) that can be accessed either online on the Thunkable
+website, or on mobile - in which the user can login, create an account, enter
+details for a new trip and navigate through the pages. We anticipate that other
+features included in our original design such as instant chat, an interactive
+map showing updated travel destinations, notifications, and a file/photo gallery
+ will still be displayed in the prototype, but will be non-functional -
+requiring additional time outside the assignment deadline to properly develop.
+
+
+3.6 - Tools and Technologies
+
+We have used Adobe XD to design the app screens as this tool allows the team to
+work collaboratively and has advanced capabilities to create a very realistic
+representation of the app UI.
+As mentioned before, to build the prototype, we’ve used Thunkable. The platform
+allows users to create apps for iOS and Android. With Thunkable it is possible
+to build the app using blocks instead of code. We can drag and drop the
+different user interface components and to add functionality to each element,
+we can use the blocks as we were programming using code. Once the app prototype
+is finished, we will export it as an executable (.apk) file that can be
+installed on a phone. Additionally, it is possible to export the source code
+(.aia) that can be edited using Thunkable.
+To have control of the database and the customer’s details we’ve used a real
+time database (Firebase Realtime). As Team Terabyte will own the Firebase
+database it will be possible to connect that database to a custom-built app or
+website in the future and sync data across devices. The data is stored as a
+JSON object using keys association. The NoSQL nature of the database makes it
+really important to structure the data in a “flat” way, as every time we fetch
+data, we are also retrieving all the child nodes that are under that parent node
+ and this impact directly in the monthly bill. Firebase also can be used as a
+backend to authenticate users and we can assign different permission levels to
+write and read data.
+Significant funding would be required, especially to maintain Firebase and to
+create a custom-built app for iOS and Android.
+
+
+3.7 - Testing
+
+For our project, we only expect limited functionality for our app - which would
+be a semi-working prototype allowing for user-authentication & login, and
+navigation through the different pages and entering user data for new trips. As
+the app will be developed using Thunkable, we can use it’s live-test feature to
+preview all the content, user-interactions and features as listed above before
+we decide to publish it for mobile use. This should give a general idea of how
+it should perform. Once running on a mobile, we still may encounter
+compatibility issues between different mobile operating systems,
+user-interaction / latency problems to issues with data retention and updates.
+To check for these errors across a range of devices, we could ask family or
+friends to test the app and notify us of any problems they encountered using
+their personal mobile devices. This would require at least 10 people, preferably
+ who were technologically literate, to gather some statistics of how well the
+app is functioning, noting the incidence of problems per device. We would aim
+for 95% of participants reporting no critical errors to consider our prototype a
+ success.
+
+
+3.8 - Timeframe
+
+        (insert table here)
+
+3.9 - Risks
+
+- Being undecided on how to deliver the project idea (website vs app). We might
+not be able to deliver consistent or quality artefacts if we’re splitting our
+time between different platforms.
+
+- It is also important that we deliver our artefacts by a timely date, which can
+ be integrated into the final video-presentation. We need to have enough content
+ to allow for a 5 minute script that is relevant to what we've produced.
+
+- Software for creating the app prototype such as Adobe XD may be difficult to
+learn given our time-frame. The delivered prototype may contain bugs if we rush
+implementing this software into our project. If this is the case, we may only
+have the time to present a wire-frame of the app, including all the major
+features and include limited functionality such as buttons for navigating
+different pages, login/logout and user authentication.
+
+- A functional app for our project would ideally contain complex interactive
+animations that go beyond registering and inputting basic data - such as a photo
+ timeline and an interactive global map that displays a history of user’s prior
+travel destinations. It is unlikely that we will develop these features given
+our current knowledge and time-frame.
+
+- If we’re not realistic about what we can accomplish given our dead-line &
+don’t have a shared understanding, we run the risk of our work being fragmented
+and unrelated to each other. It’s essential we have common knowledge about our
+aims for the project.
+
+- As many of us don’t have prior experience with deploying an app or using
+software such as Thunkable or Adobe XD, we may run into compatibility issues. If
+ this is this case, we need a back-up to present for our presentation. This
+could simply be a graphical representation (the wireframe) of the apps features
+that we include in the power-point slides
+
+
+3.10 - Group Processes and Communications
+
+As our team learnt from working on Assignment 2, regular group communication was
+ key for organizing tasks, delegating work and establishing a common goal. This
+was particularly evident when we began scheduling video calls - whereas
+communication via chat although somewhat effective, doesn’t create the same
+sense of accountability or a team focus. For Assignment 3 & 5, communication
+will be achieved mostly through Microsoft Teams, and using student emails if
+necessary to contact members outside it.
+
+We have found Microsoft Teams to be effective for the majority of group
+processes, allowing us to delegate, explain and discuss tasks through creating
+specific channels, posts and scheduled video-chats. For our group, we have come
+to expect that we should communicate at least twice per week via video chat
+(through Microsoft Teams) as this is the most effective form of communication.
+Leading into the last 2 weeks of the assessment, this would be the bare minimum,
+ and we would strive for 3 or even 4 video chats for consolidation and reviewing
+ of the project before submission.
+
+Announcements and posts are made as necessary to update members of anything
+important outside these meetings. If we notice a complete absence of activity
+from members, such as no posts or missing scheduled meetings we may notify the
+subject coordinator to have them removed. However, as we cannot control
+individual contributions from members we have more or less adopted the
+philosophy that we ultimately cannot rely on others, and we must contribute as
+much as we can given any situation - this may include covering work delegated to
+ other members which was incomplete.
+
+
+4 - Skills and Jobs
+
+Introduction and Context
+
+While developing our team project idea ‘GlobeLogger’ we were approached by
+venture capitalists who fell in love with our idea that they want to fund us to
+further development GlobeLogger even further. The time we have until expected
+completion is six months. I have been appointed as manager and am able to hire
+ 4 people to assist with the development of the GlobeLogger. The questions that
+you will all be asking is what positions would I choose? What skills with they
+require? Find out all the answers below.
+
+
+4.1 – Project Manager
+
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for an IT Project Manager to be in charge of project
+planning, resourcing, progress reporting, troubleshooting and people management.
+ As a project manager you will be under a lot of pressure. We require someone
+who can handle the heat, and lead a team through to the finish line. We need you
+ to have deep and diverse knowledge in the business industry in relation to
+mobile projects. You also need experience in management, development
+methodologies, and mobile development.
+
+Key Skills Required
+
+Confidence in leading
+Solid technical background
+Good understanding of the business line
+Inspire, manage and lead human resources
+Possess high sense of responsibility
+Proficient in multitasking
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
+
+
+4.2 – Designer
+
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a designer, we expect you to process the
+requirements of our projects and then create the required navigation mechanics
+and basic wireframes for the app to function. This is where you can begin to
+work on the loop and feel of the app through UI/UX.
+
+Key Skills Required
+
+Organized
+Experience in graphic design
+Creativity
+Innovation
+Attention to detail
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
+
+
+Position #3 – Developer
+
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a developer, you are expected to process the
+finished UI/UX layouts and showcase them in our application. It is very
+important to us that you are proficient in multiple computer languages. Due to
+our app being cross platform, flexibility is key. Below is a list of key skills
+you will need to require in order to be considered for this position.
+
+
+Key Skills Required
+
+Knowledge in HTML/CSS/JavaScript for PhoneGap and Cordova
+Knowledge of C# for Xamarin
+Knowledge of JavaScript for React Native
+Self-motivated with a fun attitude and high energy levels.
+Must be super-organized and like to work in an orderly and efficient
+environment.
+Strong attention to time management, detail and accuracy in your work
+Be flexible and a proactive, supportive team member
+Willing to learn company systems, processes and new tasks/skills
+
+How we reward & support you:
+
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
+
+
+Position #4 – Quality Assurance Specialist
+
+We are a new organization that is coming up in the IT industry. If you are to
+join us, you will experience what it is like to be part of a dynamic, growing,
+and energetic organization. We offer a stimulating workplace and a challenging
+one at that. While we are only an up and coming organization, we have already
+started our first major project and now you have the opportunity to join us on
+this journey. Being a smaller organization, allows us to really show our
+employees how much we appreciate and value them.
+
+We are currently looking for a Quality Assurance Specialist, we need you to be
+the first and most critical audience for our upcoming projects. You will test
+numerous of projects over and over again until you believe that it is ready to
+be presented to the customer. You need to look for all ways that we can improve
+our projects and prove that these improvements are necessary. We highly regard
+applicants who are Certified information systems auditor, are an experienced IT
+Auditor and also has experience in leading or mentoring junior IT auditors.
+
+Key Skills Required
+
+Attention to detail
+Creative
+Have a clear vision on what the app is supposed to do
+Analytical skills
+Problem solving
+
+How we reward & support you:
+If you are to become on of our valued employees, we offer a rewarding career
+with many pathways and different projects that will make a difference to not
+only your life, but all the lives around you. We also offer you the following:
+
+Competitive Remuneration
+Roster flexibility
+Flexible working hours & posibility to work from home
+Free Gym and Yoga membership
+
+
+5 - Artifacts
+
+5.1 GlobeLogger App
+
+-Screens
+
+    (insert image: adobexd.png)
+
+5.2 Firebase Database
+
+For the database component we have created a Firebase account using the free
+tier and selected the authentication built in function plus the real time
+database. We have built the login functionality using Thunkable’s Firebase
+Sign In component.
+
+Every time a user creates an account the information is sent and stored in the
+database. The user receives an email from Firebase to validate it.
+
+The built in authentication function from Firebase also allows to use social
+media or gmail accounts to login, but we have decided to use the email only for
+the prototype and consider to add the other options in the future.
+
+The security rules for the database require the user to be authenticated in
+order for them to be granted write & read permissions.
+
+Once the user logs in, the profile will be shown and is possible to add profile
+picture and start adding destinations.
+
+Displayed at https://globelogger.firebaseio.com/
+
+    (insert screenshots)
+
+5.3 GlobeLogger Website
+
+Displayed at - https://teamterabyte.github.io/GlobeLogger/
+
+    (insert screenshots)
+
+
+6 - Group Reflection
+
+6.1 Anabel Gonzalez
+
+Being part of Team Terabyte has been challenging and rewarding at the same time.
+ I’ve learned how difficult it can be balancing life and study, communicating
+with people that I barely know and trusting others when delegating tasks. Even
+though the team's communication for this assessment has improved, compared to
+the previous one, I still believe that there is room for improvement as a group.
+ I am really pleased to see what we have achieved as a team so far but I also
+think that we could have produced a better final result & prototype if we had
+collaborated more and managed time more efficiently. The project scope was
+quite complex and individual members contribution wasn't enough to deliver an
+artefact with more features and functions. Our weekly video conferences were
+really productive and the report was written collaboratively. Although, I
+strongly believe that if we would have counted with the presence of all team
+members during at least some of the video conferences, it would have made a big
+difference in the final result. We have tried to incorporate Github for version
+control, but our main collaboration tool remained to be MS Team.
+
+6.2 Joel Baden
+
+My experience with the group working towards our project idea was a lot smoother
+ and straight-forward than when we first met for Assignment 2, despite a few
+set-backs. By that stage we had established some good routines for communicating
+ & file-sharing, using face-time meetings effectively for clarifying, delegating
+ and prioritising tasks (we held roughly two meetings per week). Between the
+more active members (Nathan & Anabel), meetings were enjoyable and constructive
+as we learned to rely on each other's skill-sets. Despite starting earlier on
+our previous assignment, we would have benefitted from starting in the 2nd or
+3rd week as we only had 4 members in our group to split the workload. This would
+ have allowed us to develop our project further. However given our situation, I
+was surprised by the amount of work we outputted and was especially impressed by
+ how professional our prototype for GlobeLogger looked, despite it still being
+in the early stages of development (props to Anabel). A big take-away that I’ve
+learnt about group functioning would be the  importance of regular communication
+ and trusting others. It ensures there’s a collective understanding when
+assigning tasks, and creates a sense of accountability that motivates work and
+sticking to deadlines.
+
+6.3 Joseph Tselios
+
+Being a member of Team Terabyte has been great, and I really do appreciate the
+other members in the group. I do believe that the team’s strengths are found in
+the leadership roles that Anabel and Nathan held. They both made sure that this
+project ran as smoothly as possible and I do believe that they did achieve that.
+ Communication to get work done amongst all members sufficed my expectations and
+ I do believe that Nathan and Anabel are to thank for this. While our
+ communication for completing tasks was done well, I believe that our
+understanding of each other’s expectations and ideas fall through. At one-point
+half the group thought we were going to design a website while the other half
+thought we were designing an application. I believe that the amount of ‘teams’
+that we have on Microsoft teams may have been a contributing factor to the
+confusion. I’ve learned that when working in groups, you need to have a lot of
+time spare to dedicate to the group to get proper results. I was surprised with
+the quality of work that we were able to produce regardless of miscommunication.
+
+6.4 Nathan Layt
+The group did well to identify the problems of the previous assignment and make
+adjustments to work towards a more successful collaboration.
+
+The major issue identified last time was the time it took for the group to get
+started, so for Assignment 3 the MS Teams group, which has served as our central
+ communication and collaboration hub, was set up and configured the morning
+ after Assignment 2 was submitted.
+
+In the early stages of the project the group still struggled to make progress
+for a number of reasons. One thing that made it very hard to move forward was
+that we did not have our feedback from Assignment 2, which would play a vital
+role in the development of the project. Also a significant amount of research
+and experimentation was required to select the tools that would allow us to
+develop our project to a prototype stage in the very limited time given to us in
+ this assignment.
+
+The group was surprised and disappointed when the highly critical feedback of
+Assignment 2 arrived, and our vision for the project was transformed by the
+suggestion that we should produce an app rather than a website. However, we now
+had everything that was needed to start producing content as the adjusted
+project plan became clear and development swiftly began, allowing us to identify
+ the most efficient use of group member's contributions to work towards
+deliverable targets, realistically alligned with our vision.
+
+The proper use of GitHub for version control and log of activity could have been
+ improved by some members but it was drastically better than A2. Although my own
+ work is well documented in GitHub, a better idea of the contribution of other
+members is reflected by the MS Teams hub.
+
+6.5 Summary
+
+Working as a group, we certainly developed our communication, organisation and a
+ sense of accountability to each other from our first Assignment. The majority
+of group processes and communication were achieved on Microsoft Teams, and
+having experience using it from the previous assessment, we were able to use it
+ proficiently allowing for better communication, scheduling regular meetings
+and delegating tasks - which improved our overall workflow and motivation.
+This time round, we capitalised on the skills of each member, assigning
+specific tasks that suited their strengths. For example, due to her background
+in app design, Anabel was tasked with the role of building and designing the
+app, whilst the scope and vision of the project was assigned to Joel and Nathan,
+ leaving Joseph to developing the video-content for the final presentation -
+maximising our efficiency as a team. This in conjunction with starting earlier
+on our project and establishing good habits of communication allowed for better
+quality work.
+
+As we had a small number of members contributing to the project, it would have
+benefitted us to start earlier, anticipating the additional workload. Had we
+allowed for this, we could have developed a more substantial prototype than what
+ we delivered - in which the functionality was quite limited. Unfortunately the
+distribution of work was relatively unequal between members at times or tasks
+were left quite late, which caused undue stress on some members - this was most
+apparent when developing the story-board and video-presentation. In terms of
+communication, although we set adequate meetings, not all members (Joseph)
+actively participated in our regular, group video-chats, thus missing out on
+crucial-information at times & keeping them uninformed on group processes and
+the direction of the project. This could of been easily prevented by them
+actively participating in these sessions, keeping updated with the rest of the
+group.
+
+Similar to our experience working on Assignment 2, we were surprised by how much
+ regular communication (face-to-face) plays in creating a shared sense of
+accountability, and motivation - which has the secondary effect of alleviating
+the pressure which arises from feeling like you're working alone. We have
+learnt how valuable it is to have meetings such as these at semi-regular
+intervals to keep updated and focused on specific tasks. In addition, we have
+learnt that successfully working as a team requires that each member is equally
+ motivated, plays to their strengths and contributes in an equal fashion. The
+outcome of group work is linked to the group's cohesiveness.
