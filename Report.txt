@@ -442,7 +442,8 @@ I’LL ADD MORE INFO ON FRIDAY/SATURDAY
 3.4 - Roles
 
 In our group, roles for each member may include Administrator for Nathan, UI
-Designer for Anabel, Joel (Designer/Media), and Marketing for Joseph.
+Designer for Anabel, (Designer/director?) for Joel , and content-professional
+for Joseph.
 
 Nathan can be assigned as such, as he conceived the original plan for
 GlobeLogger including the major features, and is active in directing the scope
@@ -453,12 +454,15 @@ graphics design and working with databases. She has covered the logos,
 animations, and is designing/developing the UI for our project.
 
 There isn’t a specified role for Joel, although he contributes with informing
-the scope of the design, features of the app, design elements in the
-user-interface and producing the video-media to be presented.
+the scope of the design, features of the app, and design elements in the
+user-interface and assisting in the direction of the video-media to be
+presented.
 
-Joseph could be responsible for the marketing aspect of the project, producing
-compelling scripts/ voice-overs to highlight and elucidate the major features,
-goals and purposes of the brand GlobeLogger.
+Joseph is the content-professional and spokes-person for the project. He was
+keen on contributing in a creative manner and had proficiency in
+editing/creating media-content. He would be responsible for producing media
+which encapsulates the project’s vision - highlighting it’s major features in an
+ engaging, marketable way.
 
 3.5 - Scope and Limits
 
