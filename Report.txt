@@ -367,7 +367,7 @@ Progress-
 website through GitHub Pages.
 23/05/2020: Work in progress website published at
 https://teamterabyte.github.io/GlobeLogger/
-(Screenshot posted in Section 5 - Artifacts)
+(Screenshot posted in Section 5 - Artefacts)
 
 Goal-
 Add the User Profile function - This is how users will access the platform and
@@ -396,7 +396,7 @@ Progress-
 24/05/2020: Screenshots and Adobe XD links added to Section 5 - Artifacts
 24/05/2020: Prototype for app available for viewing at
 https://x.thunkable.com/copy/8b829253353708371f87fee95b887cb0 ,
-Screenshots and link added to Section 5 - Artifacts
+Screenshots and link added to Section 5 - Artefacts
 
 3.3 - Plans and Progress
 
@@ -771,9 +771,14 @@ Flexible working hours & posibility to work from home
 Free Gym and Yoga membership
 
 
-5 - Artifacts
+5 - Artefacts
 
 5.1 GlobeLogger App
+
+App Demo Video posted at - https://youtu.be/w2JQzrP-0GQ
+
+App Prototype available at -
+https://x.thunkable.com/copy/83b098b7321a970b70025dae77320efb
 
 -Screens
 
